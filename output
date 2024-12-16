@@ -1,1 +1,1121 @@
-dd
+C:\Users\PSankaran\OneDrive - Flexera, Inc\Desktop\urlconverter>python maven_url_processor.py
+Reading input file: input_urls.xlsx
+Processing URLs...
+
+Processing URLs:   0%|                                                                        | 0/223 [00:00<?, ?url/s]Processing URL: http://mvnrepository.com/artifact/junit/junit/${junit.version}
+  Trying updated URL: https://mvnrepository.com/artifact/junit/junit/${junit.version}
+  Updated URL not valid: https://mvnrepository.com/artifact/junit/junit/${junit.version}
+Searching Maven Repository for: junit junit ${junit.version}
+  Could not find a valid URL.
+Processing URLs:   0%|▎                                                               | 1/223 [00:00<03:15,  1.14url/s]Processing URL: http://mvnrepository.com/artifact/appbasever/$baseversion/
+  Trying updated URL: https://mvnrepository.com/artifact/appbasever/$baseversion/
+  Updated URL not valid: https://mvnrepository.com/artifact/appbasever/$baseversion/
+Searching Maven Repository for: appbasever $baseversion
+  Could not find a valid URL.
+Processing URLs:   1%|▌                                                               | 2/223 [00:01<01:44,  2.11url/s]Processing URL: http://mvnrepository.com/artifact/artifactory_user/$artifactorypassword/
+  Trying updated URL: https://mvnrepository.com/artifact/artifactory_user/$artifactorypassword/
+  Updated URL not valid: https://mvnrepository.com/artifact/artifactory_user/$artifactorypassword/
+Searching Maven Repository for: artifactory_user $artifactorypassword
+  Could not find a valid URL.
+Processing URLs:   1%|▊                                                               | 3/223 [00:01<01:16,  2.89url/s]Processing URL: http://mvnrepository.com/artifact/artifactory_user/$artifactoryuser/
+  Trying updated URL: https://mvnrepository.com/artifact/artifactory_user/$artifactoryuser/
+  Updated URL not valid: https://mvnrepository.com/artifact/artifactory_user/$artifactoryuser/
+Searching Maven Repository for: artifactory_user $artifactoryuser
+  Could not find a valid URL.
+Processing URLs:   2%|█▏                                                              | 4/223 [00:01<01:00,  3.64url/s]Processing URL: http://mvnrepository.com/artifact/authorization/token $pat/
+  Trying updated URL: https://mvnrepository.com/artifact/authorization/token $pat/
+  Updated URL not valid: https://mvnrepository.com/artifact/authorization/token $pat/
+Searching Maven Repository for: authorization token $pat
+  Could not find a valid URL.
+Processing URLs:   2%|█▍                                                              | 5/223 [00:01<00:50,  4.30url/s]Processing URL: http://mvnrepository.com/artifact/cc.nssm/nssm-windows_x86_64/project.
+  Trying updated URL: https://mvnrepository.com/artifact/cc.nssm/nssm-windows_x86_64/project.
+  Updated URL not valid: https://mvnrepository.com/artifact/cc.nssm/nssm-windows_x86_64/project.
+Searching Maven Repository for: cc.nssm nssm-windows_x86_64 project.
+  Could not find a valid URL.
+Processing URLs:   3%|█▋                                                              | 6/223 [00:01<00:46,  4.71url/s]Processing URL: http://mvnrepository.com/artifact/com.adobe/com.adobe.xmp-__platform__/1.0.0
+  Trying updated URL: https://mvnrepository.com/artifact/com.adobe/com.adobe.xmp-__platform__/1.0.0
+  Updated URL not valid: https://mvnrepository.com/artifact/com.adobe/com.adobe.xmp-__platform__/1.0.0
+Searching Maven Repository for: com.adobe com.adobe.xmp-__platform__ 1.0.0
+  Could not find a valid URL.
+Processing URLs:   3%|██                                                              | 7/223 [00:01<00:42,  5.14url/s]Processing URL: http://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-core/revawssdk
+  Trying updated URL: https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-core/revawssdk
+  Updated URL not valid: https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-core/revawssdk
+Searching Maven Repository for: com.amazonaws aws-java-sdk-core revawssdk
+  Could not find a valid URL.
+Processing URLs:   4%|██▎                                                             | 8/223 [00:02<00:40,  5.32url/s]Processing URL: http://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-s3/revawssdk
+  Trying updated URL: https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-s3/revawssdk
+  Updated URL not valid: https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-s3/revawssdk
+Searching Maven Repository for: com.amazonaws aws-java-sdk-s3 revawssdk
+  Could not find a valid URL.
+Processing URLs:   4%|██▌                                                             | 9/223 [00:02<00:38,  5.60url/s]Processing URL: http://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-sqs/revawssdk
+  Trying updated URL: https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-sqs/revawssdk
+  Updated URL not valid: https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-sqs/revawssdk
+Searching Maven Repository for: com.amazonaws aws-java-sdk-sqs revawssdk
+  Could not find a valid URL.
+Processing URLs:   4%|██▊                                                            | 10/223 [00:02<00:39,  5.37url/s]Processing URL: http://mvnrepository.com/artifact/com.android.tools.build/gradle/1.5.+
+  Trying updated URL: https://mvnrepository.com/artifact/com.android.tools.build/gradle/1.5.+
+  Updated URL not valid: https://mvnrepository.com/artifact/com.android.tools.build/gradle/1.5.+
+Searching Maven Repository for: com.android.tools.build gradle 1.5.+
+  Could not find a valid URL.
+Processing URLs:   5%|███                                                            | 11/223 [00:02<00:39,  5.34url/s]Processing URL: http://mvnrepository.com/artifact/com.android.tools.build/gradle/2.3.+
+  Trying updated URL: https://mvnrepository.com/artifact/com.android.tools.build/gradle/2.3.+
+  Updated URL not valid: https://mvnrepository.com/artifact/com.android.tools.build/gradle/2.3.+
+Searching Maven Repository for: com.android.tools.build gradle 2.3.+
+  Could not find a valid URL.
+Processing URLs:   5%|███▍                                                           | 12/223 [00:02<00:38,  5.47url/s]Processing URL: http://mvnrepository.com/artifact/com.apple/appleextensions/17.+
+  Trying updated URL: https://mvnrepository.com/artifact/com.apple/appleextensions/17.+
+  Updated URL not valid: https://mvnrepository.com/artifact/com.apple/appleextensions/17.+
+Searching Maven Repository for: com.apple appleextensions 17.+
+  Could not find a valid URL.
+Processing URLs:   6%|███▋                                                           | 13/223 [00:02<00:36,  5.71url/s]Processing URL: http://mvnrepository.com/artifact/com.apple/com.apple.prores-__platform__/1.0.1
+  Trying updated URL: https://mvnrepository.com/artifact/com.apple/com.apple.prores-__platform__/1.0.1
+  Updated URL not valid: https://mvnrepository.com/artifact/com.apple/com.apple.prores-__platform__/1.0.1
+Searching Maven Repository for: com.apple com.apple.prores-__platform__ 1.0.1
+  Could not find a valid URL.
+Processing URLs:   6%|███▉                                                           | 14/223 [00:03<00:36,  5.73url/s]Processing URL: http://mvnrepository.com/artifact/com.arriraw/com.arriraw-__platform__/6.2.2
+  Trying updated URL: https://mvnrepository.com/artifact/com.arriraw/com.arriraw-__platform__/6.2.2
+  Updated URL not valid: https://mvnrepository.com/artifact/com.arriraw/com.arriraw-__platform__/6.2.2
+Searching Maven Repository for: com.arriraw com.arriraw-__platform__ 6.2.2
+  Could not find a valid URL.
+Processing URLs:   7%|████▏                                                          | 15/223 [00:03<00:37,  5.59url/s]Processing URL: http://mvnrepository.com/artifact/com.asperasoft/faspmanager/2.7.0
+  Trying updated URL: https://mvnrepository.com/artifact/com.asperasoft/faspmanager/2.7.0
+  Updated URL not valid: https://mvnrepository.com/artifact/com.asperasoft/faspmanager/2.7.0
+Searching Maven Repository for: com.asperasoft faspmanager 2.7.0
+  Could not find a valid URL.
+Processing URLs:   7%|████▌                                                          | 16/223 [00:03<00:36,  5.64url/s]Processing URL: http://mvnrepository.com/artifact/com.athaydes.automaton/automaton/1.3.2
+  Trying updated URL: https://mvnrepository.com/artifact/com.athaydes.automaton/automaton/1.3.2
+  Updated URL not valid: https://mvnrepository.com/artifact/com.athaydes.automaton/automaton/1.3.2
+Searching Maven Repository for: com.athaydes.automaton automaton 1.3.2
+  Could not find a valid URL.
+Processing URLs:   8%|████▊                                                          | 17/223 [00:03<00:36,  5.68url/s]Processing URL: http://mvnrepository.com/artifact/com.azure/azure-storage-blob/revazurestorageblobsdk
+  Trying updated URL: https://mvnrepository.com/artifact/com.azure/azure-storage-blob/revazurestorageblobsdk
+  Updated URL not valid: https://mvnrepository.com/artifact/com.azure/azure-storage-blob/revazurestorageblobsdk
+Searching Maven Repository for: com.azure azure-storage-blob revazurestorageblobsdk
+  Could not find a valid URL.
+Processing URLs:   8%|█████                                                          | 18/223 [00:03<00:35,  5.70url/s]Processing URL: http://mvnrepository.com/artifact/com.braw/com.braw-__platform__/2.1.0
+  Trying updated URL: https://mvnrepository.com/artifact/com.braw/com.braw-__platform__/2.1.0
+  Updated URL not valid: https://mvnrepository.com/artifact/com.braw/com.braw-__platform__/2.1.0
+Searching Maven Repository for: com.braw com.braw-__platform__ 2.1.0
+  Could not find a valid URL.
+Processing URLs:   9%|█████▎                                                         | 19/223 [00:04<00:41,  4.93url/s]Processing URL: http://mvnrepository.com/artifact/com.codahale.metrics/metrics-annotation/${metrics.version}
+  Trying updated URL: https://mvnrepository.com/artifact/com.codahale.metrics/metrics-annotation/${metrics.version}
+  Updated URL not valid: https://mvnrepository.com/artifact/com.codahale.metrics/metrics-annotation/${metrics.version}
+Searching Maven Repository for: com.codahale.metrics metrics-annotation ${metrics.version}
+  Could not find a valid URL.
+Processing URLs:   9%|█████▋                                                         | 20/223 [00:04<00:41,  4.91url/s]Processing URL: http://mvnrepository.com/artifact/com.csvreader/javacsv/1.5.0_07-b03
+  Trying updated URL: https://mvnrepository.com/artifact/com.csvreader/javacsv/1.5.0_07-b03
+  Updated URL not valid: https://mvnrepository.com/artifact/com.csvreader/javacsv/1.5.0_07-b03
+Searching Maven Repository for: com.csvreader javacsv 1.5.0_07-b03
+  Could not find a valid URL.
+Processing URLs:   9%|█████▉                                                         | 21/223 [00:04<00:42,  4.79url/s]Processing URL: http://mvnrepository.com/artifact/com.datastax.cassandra/cassandra-driver-core/revcassandra
+  Trying updated URL: https://mvnrepository.com/artifact/com.datastax.cassandra/cassandra-driver-core/revcassandra
+  Updated URL not valid: https://mvnrepository.com/artifact/com.datastax.cassandra/cassandra-driver-core/revcassandra
+Searching Maven Repository for: com.datastax.cassandra cassandra-driver-core revcassandra
+  Could not find a valid URL.
+Processing URLs:  10%|██████▏                                                        | 22/223 [00:04<00:41,  4.83url/s]Processing URL: http://mvnrepository.com/artifact/com.diffplug.spotless/spotless-plugin-gradle/6.+
+  Trying updated URL: https://mvnrepository.com/artifact/com.diffplug.spotless/spotless-plugin-gradle/6.+
+  Updated URL not valid: https://mvnrepository.com/artifact/com.diffplug.spotless/spotless-plugin-gradle/6.+
+Searching Maven Repository for: com.diffplug.spotless spotless-plugin-gradle 6.+
+  Could not find a valid URL.
+Processing URLs:  10%|██████▍                                                        | 23/223 [00:04<00:42,  4.73url/s]Processing URL: http://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations/${jackson.version}
+  Trying updated URL: https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations/${jackson.version}
+  Updated URL not valid: https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations/${jackson.version}
+Searching Maven Repository for: com.fasterxml.jackson.core jackson-annotations ${jackson.version}
+  Could not find a valid URL.
+Processing URLs:  11%|██████▊                                                        | 24/223 [00:05<00:46,  4.26url/s]Processing URL: http://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations/jackson_version
+  Trying updated URL: https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations/jackson_version
+  Updated URL not valid: https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations/jackson_version
+Searching Maven Repository for: com.fasterxml.jackson.core jackson-annotations jackson_version
+  Could not find a valid URL.
+Processing URLs:  11%|███████                                                        | 25/223 [00:05<00:42,  4.70url/s]Processing URL: http://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations/revfasterxml
+  Trying updated URL: https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations/revfasterxml
+  Updated URL not valid: https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations/revfasterxml
+Searching Maven Repository for: com.fasterxml.jackson.core jackson-annotations revfasterxml
+  Could not find a valid URL.
+Processing URLs:  12%|███████▎                                                       | 26/223 [00:05<00:39,  5.01url/s]Processing URL: http://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core/jackson_version
+  Trying updated URL: https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core/jackson_version
+  Updated URL not valid: https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core/jackson_version
+Searching Maven Repository for: com.fasterxml.jackson.core jackson-core jackson_version
+  Could not find a valid URL.
+Processing URLs:  12%|███████▋                                                       | 27/223 [00:05<00:40,  4.80url/s]Processing URL: http://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core/revfasterxml
+  Trying updated URL: https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core/revfasterxml
+  Updated URL not valid: https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core/revfasterxml
+Searching Maven Repository for: com.fasterxml.jackson.core jackson-core revfasterxml
+  Could not find a valid URL.
+Processing URLs:  13%|███████▉                                                       | 28/223 [00:06<00:40,  4.80url/s]Processing URL: http://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/jackson_databind_version
+  Trying updated URL: https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/jackson_databind_version
+  Updated URL not valid: https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/jackson_databind_version
+Searching Maven Repository for: com.fasterxml.jackson.core jackson-databind jackson_databind_version
+  Could not find a valid URL.
+Processing URLs:  13%|████████▏                                                      | 29/223 [00:06<00:42,  4.55url/s]Processing URL: http://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/revfasterxml
+  Trying updated URL: https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/revfasterxml
+  Updated URL not valid: https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/revfasterxml
+Searching Maven Repository for: com.fasterxml.jackson.core jackson-databind revfasterxml
+  Could not find a valid URL.
+Processing URLs:  13%|████████▍                                                      | 30/223 [00:06<00:42,  4.54url/s]Processing URL: http://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/revjackson
+  Trying updated URL: https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/revjackson
+  Updated URL not valid: https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/revjackson
+Searching Maven Repository for: com.fasterxml.jackson.core jackson-databind revjackson
+  Could not find a valid URL.
+Processing URLs:  14%|████████▊                                                      | 31/223 [00:06<00:42,  4.56url/s]Processing URL: http://mvnrepository.com/artifact/com.fasterxml.jackson.datatype/jackson-datatype-joda/${jackson.version}
+  Trying updated URL: https://mvnrepository.com/artifact/com.fasterxml.jackson.datatype/jackson-datatype-joda/${jackson.version}
+  Updated URL not valid: https://mvnrepository.com/artifact/com.fasterxml.jackson.datatype/jackson-datatype-joda/${jackson.version}
+Searching Maven Repository for: com.fasterxml.jackson.datatype jackson-datatype-joda ${jackson.version}
+  Could not find a valid URL.
+Processing URLs:  14%|█████████                                                      | 32/223 [00:06<00:40,  4.75url/s]Processing URL: http://mvnrepository.com/artifact/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/jackson_version
+  Trying updated URL: https://mvnrepository.com/artifact/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/jackson_version
+  Updated URL not valid: https://mvnrepository.com/artifact/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/jackson_version
+Searching Maven Repository for: com.fasterxml.jackson.datatype jackson-datatype-jsr310 jackson_version
+  Could not find a valid URL.
+Processing URLs:  15%|█████████▎                                                     | 33/223 [00:07<00:40,  4.69url/s]Processing URL: http://mvnrepository.com/artifact/com.fasterxml.jackson.module/jackson-module-afterburner/revfasterxml
+  Trying updated URL: https://mvnrepository.com/artifact/com.fasterxml.jackson.module/jackson-module-afterburner/revfasterxml
+  Updated URL not valid: https://mvnrepository.com/artifact/com.fasterxml.jackson.module/jackson-module-afterburner/revfasterxml
+Searching Maven Repository for: com.fasterxml.jackson.module jackson-module-afterburner revfasterxml
+  Could not find a valid URL.
+Processing URLs:  15%|█████████▌                                                     | 34/223 [00:07<00:44,  4.27url/s]Processing URL: http://mvnrepository.com/artifact/com.fpdigital.diva/diva-common/7.1
+  Trying updated URL: https://mvnrepository.com/artifact/com.fpdigital.diva/diva-common/7.1
+  Updated URL not valid: https://mvnrepository.com/artifact/com.fpdigital.diva/diva-common/7.1
+Searching Maven Repository for: com.fpdigital.diva diva-common 7.1
+  Could not find a valid URL.
+Processing URLs:  16%|█████████▉                                                     | 35/223 [00:07<00:48,  3.91url/s]Processing URL: http://mvnrepository.com/artifact/com.fpdigital.diva/diva-java-api/7.1
+  Trying updated URL: https://mvnrepository.com/artifact/com.fpdigital.diva/diva-java-api/7.1
+  Updated URL not valid: https://mvnrepository.com/artifact/com.fpdigital.diva/diva-java-api/7.1
+Searching Maven Repository for: com.fpdigital.diva diva-java-api 7.1
+  Could not find a valid URL.
+Processing URLs:  16%|██████████▏                                                    | 36/223 [00:07<00:48,  3.89url/s]Processing URL: http://mvnrepository.com/artifact/com.github.scribejava/scribejava-apis/scribejava_apis_version
+  Trying updated URL: https://mvnrepository.com/artifact/com.github.scribejava/scribejava-apis/scribejava_apis_version
+  Updated URL not valid: https://mvnrepository.com/artifact/com.github.scribejava/scribejava-apis/scribejava_apis_version
+Searching Maven Repository for: com.github.scribejava scribejava-apis scribejava_apis_version
+  Could not find a valid URL.
+Processing URLs:  17%|██████████▍                                                    | 37/223 [00:08<00:42,  4.33url/s]Processing URL: http://mvnrepository.com/artifact/com.google.code.tempus-fugit/tempus-fugit/1.1.1
+  Trying updated URL: https://mvnrepository.com/artifact/com.google.code.tempus-fugit/tempus-fugit/1.1.1
+  Updated URL not valid: https://mvnrepository.com/artifact/com.google.code.tempus-fugit/tempus-fugit/1.1.1
+Searching Maven Repository for: com.google.code.tempus-fugit tempus-fugit 1.1.1
+  Could not find a valid URL.
+Processing URLs:  17%|██████████▋                                                    | 38/223 [00:08<00:42,  4.39url/s]Processing URL: http://mvnrepository.com/artifact/com.google.guava/guava/revguava
+  Trying updated URL: https://mvnrepository.com/artifact/com.google.guava/guava/revguava
+  Updated URL not valid: https://mvnrepository.com/artifact/com.google.guava/guava/revguava
+Searching Maven Repository for: com.google.guava guava revguava
+  Could not find a valid URL.
+Processing URLs:  17%|███████████                                                    | 39/223 [00:08<00:40,  4.51url/s]Processing URL: http://mvnrepository.com/artifact/com.google.protobuf/protobuf-java/protocversion
+  Trying updated URL: https://mvnrepository.com/artifact/com.google.protobuf/protobuf-java/protocversion
+  Updated URL not valid: https://mvnrepository.com/artifact/com.google.protobuf/protobuf-java/protocversion
+Searching Maven Repository for: com.google.protobuf protobuf-java protocversion
+  Could not find a valid URL.
+Processing URLs:  18%|███████████▎                                                   | 40/223 [00:08<00:43,  4.23url/s]Processing URL: http://mvnrepository.com/artifact/com.google.protobuf/protobuf-java/revprotobuf
+  Trying updated URL: https://mvnrepository.com/artifact/com.google.protobuf/protobuf-java/revprotobuf
+  Updated URL not valid: https://mvnrepository.com/artifact/com.google.protobuf/protobuf-java/revprotobuf
+Searching Maven Repository for: com.google.protobuf protobuf-java revprotobuf
+  Could not find a valid URL.
+Processing URLs:  18%|███████████▌                                                   | 41/223 [00:09<00:42,  4.30url/s]Processing URL: http://mvnrepository.com/artifact/com.google.protobuf/protoc/protocversion
+  Trying updated URL: https://mvnrepository.com/artifact/com.google.protobuf/protoc/protocversion
+  Updated URL not valid: https://mvnrepository.com/artifact/com.google.protobuf/protoc/protocversion
+Searching Maven Repository for: com.google.protobuf protoc protocversion
+  Could not find a valid URL.
+Processing URLs:  19%|███████████▊                                                   | 42/223 [00:09<00:41,  4.32url/s]Processing URL: http://mvnrepository.com/artifact/com.google/gdata-client/1.0
+  Trying updated URL: https://mvnrepository.com/artifact/com.google/gdata-client/1.0
+  Updated URL not valid: https://mvnrepository.com/artifact/com.google/gdata-client/1.0
+Searching Maven Repository for: com.google gdata-client 1.0
+  Could not find a valid URL.
+Processing URLs:  19%|████████████▏                                                  | 43/223 [00:09<00:39,  4.50url/s]Processing URL: http://mvnrepository.com/artifact/com.google/gdata-client-meta/1.0
+  Trying updated URL: https://mvnrepository.com/artifact/com.google/gdata-client-meta/1.0
+  Updated URL not valid: https://mvnrepository.com/artifact/com.google/gdata-client-meta/1.0
+Searching Maven Repository for: com.google gdata-client-meta 1.0
+  Could not find a valid URL.
+Processing URLs:  20%|████████████▍                                                  | 44/223 [00:09<00:47,  3.76url/s]Processing URL: http://mvnrepository.com/artifact/com.google/gdata-core/1.0
+  Trying updated URL: https://mvnrepository.com/artifact/com.google/gdata-core/1.0
+  Updated URL not valid: https://mvnrepository.com/artifact/com.google/gdata-core/1.0
+Searching Maven Repository for: com.google gdata-core 1.0
+  Could not find a valid URL.
+Processing URLs:  20%|████████████▋                                                  | 45/223 [00:10<00:44,  4.00url/s]Processing URL: http://mvnrepository.com/artifact/com.google/gdata-media/1.0
+  Trying updated URL: https://mvnrepository.com/artifact/com.google/gdata-media/1.0
+  Updated URL not valid: https://mvnrepository.com/artifact/com.google/gdata-media/1.0
+Searching Maven Repository for: com.google gdata-media 1.0
+  Could not find a valid URL.
+Processing URLs:  21%|████████████▉                                                  | 46/223 [00:10<00:43,  4.10url/s]Processing URL: http://mvnrepository.com/artifact/com.google/gdata-youtube/2.0
+  Trying updated URL: https://mvnrepository.com/artifact/com.google/gdata-youtube/2.0
+  Updated URL not valid: https://mvnrepository.com/artifact/com.google/gdata-youtube/2.0
+Searching Maven Repository for: com.google gdata-youtube 2.0
+  Could not find a valid URL.
+Processing URLs:  21%|█████████████▎                                                 | 47/223 [00:10<00:39,  4.49url/s]Processing URL: http://mvnrepository.com/artifact/com.google/gdata-youtube-meta/2.0
+  Trying updated URL: https://mvnrepository.com/artifact/com.google/gdata-youtube-meta/2.0
+  Updated URL not valid: https://mvnrepository.com/artifact/com.google/gdata-youtube-meta/2.0
+Searching Maven Repository for: com.google gdata-youtube-meta 2.0
+  Could not find a valid URL.
+Processing URLs:  22%|█████████████▌                                                 | 48/223 [00:10<00:36,  4.78url/s]Processing URL: http://mvnrepository.com/artifact/com.google/jsr/3.0.5
+  Trying updated URL: https://mvnrepository.com/artifact/com.google/jsr/3.0.5
+  Updated URL not valid: https://mvnrepository.com/artifact/com.google/jsr/3.0.5
+Searching Maven Repository for: com.google jsr 3.0.5
+  Could not find a valid URL.
+Processing URLs:  22%|█████████████▊                                                 | 49/223 [00:10<00:35,  4.93url/s]Processing URL: http://mvnrepository.com/artifact/com.gopro/com.gopro.cineform-__platform__/1.0.0
+  Trying updated URL: https://mvnrepository.com/artifact/com.gopro/com.gopro.cineform-__platform__/1.0.0
+  Updated URL not valid: https://mvnrepository.com/artifact/com.gopro/com.gopro.cineform-__platform__/1.0.0
+Searching Maven Repository for: com.gopro com.gopro.cineform-__platform__ 1.0.0
+  Could not find a valid URL.
+Processing URLs:  22%|██████████████▏                                                | 50/223 [00:10<00:31,  5.42url/s]Processing URL: http://mvnrepository.com/artifact/com.iheartradio.m3u8/open-m3u8/${iheartradio.version}
+  Trying updated URL: https://mvnrepository.com/artifact/com.iheartradio.m3u8/open-m3u8/${iheartradio.version}
+  Updated URL not valid: https://mvnrepository.com/artifact/com.iheartradio.m3u8/open-m3u8/${iheartradio.version}
+Searching Maven Repository for: com.iheartradio.m3u8 open-m3u8 ${iheartradio.version}
+  Could not find a valid URL.
+Processing URLs:  23%|██████████████▍                                                | 51/223 [00:11<00:31,  5.47url/s]Processing URL: http://mvnrepository.com/artifact/com.jayway.jsonpath/json-path/revjsonpath
+  Trying updated URL: https://mvnrepository.com/artifact/com.jayway.jsonpath/json-path/revjsonpath
+  Updated URL not valid: https://mvnrepository.com/artifact/com.jayway.jsonpath/json-path/revjsonpath
+Searching Maven Repository for: com.jayway.jsonpath json-path revjsonpath
+  Could not find a valid URL.
+Processing URLs:  23%|██████████████▋                                                | 52/223 [00:11<00:29,  5.83url/s]Processing URL: http://mvnrepository.com/artifact/com.licensespring/licensespring-floating-client/2.4.8
+  Trying updated URL: https://mvnrepository.com/artifact/com.licensespring/licensespring-floating-client/2.4.8
+  Updated URL not valid: https://mvnrepository.com/artifact/com.licensespring/licensespring-floating-client/2.4.8
+Searching Maven Repository for: com.licensespring licensespring-floating-client 2.4.8
+  Could not find a valid URL.
+Processing URLs:  24%|██████████████▉                                                | 53/223 [00:11<00:31,  5.46url/s]Processing URL: http://mvnrepository.com/artifact/com.microsoft/com.microsoft.vcruntime/1.4.0
+  Trying updated URL: https://mvnrepository.com/artifact/com.microsoft/com.microsoft.vcruntime/1.4.0
+  Updated URL not valid: https://mvnrepository.com/artifact/com.microsoft/com.microsoft.vcruntime/1.4.0
+Searching Maven Repository for: com.microsoft com.microsoft.vcruntime 1.4.0
+  Could not find a valid URL.
+Processing URLs:  24%|███████████████▎                                               | 54/223 [00:11<00:29,  5.69url/s]Processing URL: http://mvnrepository.com/artifact/com.netflix.conductor/conductor-client/revconductor
+  Trying updated URL: https://mvnrepository.com/artifact/com.netflix.conductor/conductor-client/revconductor
+  Updated URL not valid: https://mvnrepository.com/artifact/com.netflix.conductor/conductor-client/revconductor
+Searching Maven Repository for: com.netflix.conductor conductor-client revconductor
+  Could not find a valid URL.
+Processing URLs:  25%|███████████████▌                                               | 55/223 [00:11<00:29,  5.67url/s]Processing URL: http://mvnrepository.com/artifact/com.netflix.conductor/conductor-common/revconductor
+  Trying updated URL: https://mvnrepository.com/artifact/com.netflix.conductor/conductor-common/revconductor
+  Updated URL not valid: https://mvnrepository.com/artifact/com.netflix.conductor/conductor-common/revconductor
+Searching Maven Repository for: com.netflix.conductor conductor-common revconductor
+  Could not find a valid URL.
+Processing URLs:  25%|███████████████▊                                               | 56/223 [00:12<00:28,  5.86url/s]Processing URL: http://mvnrepository.com/artifact/com.netflix.conductor/conductor-java-sdk/revconductor
+  Trying updated URL: https://mvnrepository.com/artifact/com.netflix.conductor/conductor-java-sdk/revconductor
+  Updated URL not valid: https://mvnrepository.com/artifact/com.netflix.conductor/conductor-java-sdk/revconductor
+Searching Maven Repository for: com.netflix.conductor conductor-java-sdk revconductor
+  Could not find a valid URL.
+Processing URLs:  26%|████████████████                                               | 57/223 [00:12<00:28,  5.75url/s]Processing URL: http://mvnrepository.com/artifact/com.netflix.dyno-queues/dyno-queues-redis/revdynoqueues
+  Trying updated URL: https://mvnrepository.com/artifact/com.netflix.dyno-queues/dyno-queues-redis/revdynoqueues
+  Updated URL not valid: https://mvnrepository.com/artifact/com.netflix.dyno-queues/dyno-queues-redis/revdynoqueues
+Searching Maven Repository for: com.netflix.dyno-queues dyno-queues-redis revdynoqueues
+  Could not find a valid URL.
+Processing URLs:  26%|████████████████▍                                              | 58/223 [00:12<00:27,  5.93url/s]Processing URL: http://mvnrepository.com/artifact/com.netflix.eureka/eureka-client/reveurekaclient
+  Trying updated URL: https://mvnrepository.com/artifact/com.netflix.eureka/eureka-client/reveurekaclient
+  Updated URL not valid: https://mvnrepository.com/artifact/com.netflix.eureka/eureka-client/reveurekaclient
+Searching Maven Repository for: com.netflix.eureka eureka-client reveurekaclient
+  Could not find a valid URL.
+Processing URLs:  26%|████████████████▋                                              | 59/223 [00:12<00:28,  5.72url/s]Processing URL: http://mvnrepository.com/artifact/com.netflix.runtime/health-api/revhealth
+  Trying updated URL: https://mvnrepository.com/artifact/com.netflix.runtime/health-api/revhealth
+  Updated URL not valid: https://mvnrepository.com/artifact/com.netflix.runtime/health-api/revhealth
+Searching Maven Repository for: com.netflix.runtime health-api revhealth
+  Could not find a valid URL.
+Processing URLs:  27%|████████████████▉                                              | 60/223 [00:12<00:29,  5.49url/s]Processing URL: http://mvnrepository.com/artifact/com.netflix.spectator/spectator-api/revspectator
+  Trying updated URL: https://mvnrepository.com/artifact/com.netflix.spectator/spectator-api/revspectator
+  Updated URL not valid: https://mvnrepository.com/artifact/com.netflix.spectator/spectator-api/revspectator
+Searching Maven Repository for: com.netflix.spectator spectator-api revspectator
+  Could not find a valid URL.
+Processing URLs:  27%|█████████████████▏                                             | 61/223 [00:12<00:28,  5.71url/s]Processing URL: http://mvnrepository.com/artifact/com.netflix.spectator/spectator-reg-metrics3/revspectator
+  Trying updated URL: https://mvnrepository.com/artifact/com.netflix.spectator/spectator-reg-metrics3/revspectator
+  Updated URL not valid: https://mvnrepository.com/artifact/com.netflix.spectator/spectator-reg-metrics3/revspectator
+Searching Maven Repository for: com.netflix.spectator spectator-reg-metrics3 revspectator
+  Could not find a valid URL.
+Processing URLs:  28%|█████████████████▌                                             | 62/223 [00:13<00:28,  5.67url/s]Processing URL: http://mvnrepository.com/artifact/com.netflix.spectator/spectator-reg-micrometer/revspectator
+  Trying updated URL: https://mvnrepository.com/artifact/com.netflix.spectator/spectator-reg-micrometer/revspectator
+  Updated URL not valid: https://mvnrepository.com/artifact/com.netflix.spectator/spectator-reg-micrometer/revspectator
+Searching Maven Repository for: com.netflix.spectator spectator-reg-micrometer revspectator
+  Could not find a valid URL.
+Processing URLs:  28%|█████████████████▊                                             | 63/223 [00:13<00:27,  5.77url/s]Processing URL: http://mvnrepository.com/artifact/com.rabbitmq/amqp-client/revamqpclient
+  Trying updated URL: https://mvnrepository.com/artifact/com.rabbitmq/amqp-client/revamqpclient
+  Updated URL not valid: https://mvnrepository.com/artifact/com.rabbitmq/amqp-client/revamqpclient
+Searching Maven Repository for: com.rabbitmq amqp-client revamqpclient
+  Could not find a valid URL.
+Processing URLs:  29%|██████████████████                                             | 64/223 [00:13<00:27,  5.81url/s]Processing URL: http://mvnrepository.com/artifact/com.rabbitmq/amqp-client versionrequire $revamqpclient/amqp-client versionrequire revamqpclient
+  Trying updated URL: https://mvnrepository.com/artifact/com.rabbitmq/amqp-client versionrequire $revamqpclient/amqp-client versionrequire revamqpclient
+  Updated URL not valid: https://mvnrepository.com/artifact/com.rabbitmq/amqp-client versionrequire $revamqpclient/amqp-client versionrequire revamqpclient
+Searching Maven Repository for: com.rabbitmq amqp-client versionrequire $revamqpclient amqp-client versionrequire revamqpclient
+  Could not find a valid URL.
+Processing URLs:  29%|██████████████████▎                                            | 65/223 [00:13<00:27,  5.71url/s]Processing URL: http://mvnrepository.com/artifact/com.red/com.red-__platform__/8.0.4
+  Trying updated URL: https://mvnrepository.com/artifact/com.red/com.red-__platform__/8.0.4
+  Updated URL not valid: https://mvnrepository.com/artifact/com.red/com.red-__platform__/8.0.4
+Searching Maven Repository for: com.red com.red-__platform__ 8.0.4
+  Could not find a valid URL.
+Processing URLs:  30%|██████████████████▋                                            | 66/223 [00:13<00:27,  5.81url/s]Processing URL: http://mvnrepository.com/artifact/com.signiant.common.auth/signiant.common.auth/1.0.2
+  Trying updated URL: https://mvnrepository.com/artifact/com.signiant.common.auth/signiant.common.auth/1.0.2
+  Updated URL not valid: https://mvnrepository.com/artifact/com.signiant.common.auth/signiant.common.auth/1.0.2
+Searching Maven Repository for: com.signiant.common.auth signiant.common.auth 1.0.2
+  Could not find a valid URL.
+Processing URLs:  30%|██████████████████▉                                            | 67/223 [00:13<00:27,  5.71url/s]Processing URL: http://mvnrepository.com/artifact/com.signiant.common.auth/signiant.common.auth/1.0.6
+  Trying updated URL: https://mvnrepository.com/artifact/com.signiant.common.auth/signiant.common.auth/1.0.6
+  Updated URL not valid: https://mvnrepository.com/artifact/com.signiant.common.auth/signiant.common.auth/1.0.6
+Searching Maven Repository for: com.signiant.common.auth signiant.common.auth 1.0.6
+  Could not find a valid URL.
+Processing URLs:  30%|███████████████████▏                                           | 68/223 [00:14<00:27,  5.73url/s]Processing URL: http://mvnrepository.com/artifact/com.spotify/completable-futures/revspotifycompletablefutures
+  Trying updated URL: https://mvnrepository.com/artifact/com.spotify/completable-futures/revspotifycompletablefutures
+  Updated URL not valid: https://mvnrepository.com/artifact/com.spotify/completable-futures/revspotifycompletablefutures
+Searching Maven Repository for: com.spotify completable-futures revspotifycompletablefutures
+  Could not find a valid URL.
+Processing URLs:  31%|███████████████████▍                                           | 69/223 [00:14<00:26,  5.87url/s]Processing URL: http://mvnrepository.com/artifact/com.sun.jersey/jersey-client/revjersey
+  Trying updated URL: https://mvnrepository.com/artifact/com.sun.jersey/jersey-client/revjersey
+  Updated URL not valid: https://mvnrepository.com/artifact/com.sun.jersey/jersey-client/revjersey
+Searching Maven Repository for: com.sun.jersey jersey-client revjersey
+  Could not find a valid URL.
+Processing URLs:  31%|███████████████████▊                                           | 70/223 [00:14<00:25,  5.93url/s]Processing URL: http://mvnrepository.com/artifact/com.twmacinta/fast-md5/2.7
+  Trying updated URL: https://mvnrepository.com/artifact/com.twmacinta/fast-md5/2.7
+  Updated URL not valid: https://mvnrepository.com/artifact/com.twmacinta/fast-md5/2.7
+Searching Maven Repository for: com.twmacinta fast-md5 2.7
+  Could not find a valid URL.
+Processing URLs:  32%|████████████████████                                           | 71/223 [00:14<00:24,  6.12url/s]Processing URL: http://mvnrepository.com/artifact/com.zaxxer/hikaricp-java7/2.4.12
+  Trying updated URL: https://mvnrepository.com/artifact/com.zaxxer/hikaricp-java7/2.4.12
+  Updated URL not valid: https://mvnrepository.com/artifact/com.zaxxer/hikaricp-java7/2.4.12
+Searching Maven Repository for: com.zaxxer hikaricp-java7 2.4.12
+  Could not find a valid URL.
+Processing URLs:  32%|████████████████████▎                                          | 72/223 [00:14<00:24,  6.05url/s]Processing URL: http://mvnrepository.com/artifact/commons-codec/commons-codec/revcodec
+  Trying updated URL: https://mvnrepository.com/artifact/commons-codec/commons-codec/revcodec
+  Updated URL not valid: https://mvnrepository.com/artifact/commons-codec/commons-codec/revcodec
+Searching Maven Repository for: commons-codec commons-codec revcodec
+  Could not find a valid URL.
+Processing URLs:  33%|████████████████████▌                                          | 73/223 [00:14<00:25,  5.88url/s]Processing URL: http://mvnrepository.com/artifact/commons-io/commons-io/revcommonsio
+  Trying updated URL: https://mvnrepository.com/artifact/commons-io/commons-io/revcommonsio
+  Updated URL not valid: https://mvnrepository.com/artifact/commons-io/commons-io/revcommonsio
+Searching Maven Repository for: commons-io commons-io revcommonsio
+  Could not find a valid URL.
+Processing URLs:  33%|████████████████████▉                                          | 74/223 [00:15<00:25,  5.90url/s]Processing URL: http://mvnrepository.com/artifact/commons-logging/commons-logging/99-empty
+  Trying updated URL: https://mvnrepository.com/artifact/commons-logging/commons-logging/99-empty
+  Updated URL not valid: https://mvnrepository.com/artifact/commons-logging/commons-logging/99-empty
+Searching Maven Repository for: commons-logging commons-logging 99-empty
+  Could not find a valid URL.
+Processing URLs:  34%|█████████████████████▏                                         | 75/223 [00:15<00:25,  5.75url/s]Processing URL: http://mvnrepository.com/artifact/details.requested.group/name/version
+  Trying updated URL: https://mvnrepository.com/artifact/details.requested.group/name/version
+  Updated URL not valid: https://mvnrepository.com/artifact/details.requested.group/name/version
+Searching Maven Repository for: details.requested.group name version
+  Could not find a valid URL.
+Processing URLs:  34%|█████████████████████▍                                         | 76/223 [00:15<00:24,  6.04url/s]Processing URL: http://mvnrepository.com/artifact/environment/$dev_env/
+  Trying updated URL: https://mvnrepository.com/artifact/environment/$dev_env/
+  Updated URL not valid: https://mvnrepository.com/artifact/environment/$dev_env/
+Searching Maven Repository for: environment $dev_env
+  Could not find a valid URL.
+Processing URLs:  35%|█████████████████████▊                                         | 77/223 [00:15<00:23,  6.15url/s]Processing URL: http://mvnrepository.com/artifact/environment/$devenv/
+  Trying updated URL: https://mvnrepository.com/artifact/environment/$devenv/
+  Updated URL not valid: https://mvnrepository.com/artifact/environment/$devenv/
+Searching Maven Repository for: environment $devenv
+  Could not find a valid URL.
+Processing URLs:  35%|██████████████████████                                         | 78/223 [00:15<00:25,  5.73url/s]Processing URL: http://mvnrepository.com/artifact/final dependents list/$deepdependents/
+  Trying updated URL: https://mvnrepository.com/artifact/final dependents list/$deepdependents/
+  Updated URL not valid: https://mvnrepository.com/artifact/final dependents list/$deepdependents/
+Searching Maven Repository for: final dependents list $deepdependents
+  Could not find a valid URL.
+Processing URLs:  35%|██████████████████████▎                                        | 79/223 [00:15<00:24,  5.88url/s]Processing URL: http://mvnrepository.com/artifact/fnd version/$fndlibs.versions.fnd.get/
+  Trying updated URL: https://mvnrepository.com/artifact/fnd version/$fndlibs.versions.fnd.get/
+  Updated URL not valid: https://mvnrepository.com/artifact/fnd version/$fndlibs.versions.fnd.get/
+Searching Maven Repository for: fnd version $fndlibs.versions.fnd.get
+  Could not find a valid URL.
+Processing URLs:  36%|██████████████████████▌                                        | 80/223 [00:16<00:25,  5.57url/s]Processing URL: http://mvnrepository.com/artifact/ghcr.io/graalvm/graalvm-community/22.0.2-ol8-20240716/
+  Trying updated URL: https://mvnrepository.com/artifact/ghcr.io/graalvm/graalvm-community/22.0.2-ol8-20240716/
+  Updated URL not valid: https://mvnrepository.com/artifact/ghcr.io/graalvm/graalvm-community/22.0.2-ol8-20240716/
+Searching Maven Repository for: ghcr.io graalvm graalvm-community 22.0.2-ol8-20240716
+  Could not find a valid URL.
+Processing URLs:  36%|██████████████████████▉                                        | 81/223 [00:16<00:24,  5.69url/s]Processing URL: http://mvnrepository.com/artifact/gradle.plugin.com.github.spotbugs.snom/spotbugs-gradle-plugin/4.7.5
+  Trying updated URL: https://mvnrepository.com/artifact/gradle.plugin.com.github.spotbugs.snom/spotbugs-gradle-plugin/4.7.5
+  Updated URL not valid: https://mvnrepository.com/artifact/gradle.plugin.com.github.spotbugs.snom/spotbugs-gradle-plugin/4.7.5
+Searching Maven Repository for: gradle.plugin.com.github.spotbugs.snom spotbugs-gradle-plugin 4.7.5
+  Could not find a valid URL.
+Processing URLs:  37%|███████████████████████▏                                       | 82/223 [00:16<00:24,  5.81url/s]Processing URL: http://mvnrepository.com/artifact/http.response.details/a/http response details
+  Trying updated URL: https://mvnrepository.com/artifact/http.response.details/a/http response details
+  Updated URL not valid: https://mvnrepository.com/artifact/http.response.details/a/http response details
+Searching Maven Repository for: http.response.details a http response details
+  Could not find a valid URL.
+Processing URLs:  37%|███████████████████████▍                                       | 83/223 [00:16<00:25,  5.48url/s]Processing URL: http://mvnrepository.com/artifact/io.grpc/grpc-netty/revgrpc
+  Trying updated URL: https://mvnrepository.com/artifact/io.grpc/grpc-netty/revgrpc
+  Updated URL not valid: https://mvnrepository.com/artifact/io.grpc/grpc-netty/revgrpc
+Searching Maven Repository for: io.grpc grpc-netty revgrpc
+  Could not find a valid URL.
+Processing URLs:  38%|███████████████████████▋                                       | 84/223 [00:16<00:24,  5.73url/s]Processing URL: http://mvnrepository.com/artifact/io.grpc/grpc-protobuf/revgrpc
+  Trying updated URL: https://mvnrepository.com/artifact/io.grpc/grpc-protobuf/revgrpc
+  Updated URL not valid: https://mvnrepository.com/artifact/io.grpc/grpc-protobuf/revgrpc
+Searching Maven Repository for: io.grpc grpc-protobuf revgrpc
+  Could not find a valid URL.
+Processing URLs:  38%|████████████████████████                                       | 85/223 [00:17<00:23,  5.78url/s]Processing URL: http://mvnrepository.com/artifact/io.grpc/grpc-services/revgrpc
+  Trying updated URL: https://mvnrepository.com/artifact/io.grpc/grpc-services/revgrpc
+  Updated URL not valid: https://mvnrepository.com/artifact/io.grpc/grpc-services/revgrpc
+Searching Maven Repository for: io.grpc grpc-services revgrpc
+  Could not find a valid URL.
+Processing URLs:  39%|████████████████████████▎                                      | 86/223 [00:17<00:24,  5.65url/s]Processing URL: http://mvnrepository.com/artifact/io.grpc/grpc-stub/revgrpc
+  Trying updated URL: https://mvnrepository.com/artifact/io.grpc/grpc-stub/revgrpc
+  Updated URL not valid: https://mvnrepository.com/artifact/io.grpc/grpc-stub/revgrpc
+Searching Maven Repository for: io.grpc grpc-stub revgrpc
+  Could not find a valid URL.
+Processing URLs:  39%|████████████████████████▌                                      | 87/223 [00:17<00:24,  5.45url/s]Processing URL: http://mvnrepository.com/artifact/io.grpc/grpc-testing/revgrpc
+  Trying updated URL: https://mvnrepository.com/artifact/io.grpc/grpc-testing/revgrpc
+  Updated URL not valid: https://mvnrepository.com/artifact/io.grpc/grpc-testing/revgrpc
+Searching Maven Repository for: io.grpc grpc-testing revgrpc
+  Could not find a valid URL.
+Processing URLs:  39%|████████████████████████▊                                      | 88/223 [00:17<00:23,  5.74url/s]Processing URL: http://mvnrepository.com/artifact/io.grpc/protoc-gen-grpc-java/revgrpc
+  Trying updated URL: https://mvnrepository.com/artifact/io.grpc/protoc-gen-grpc-java/revgrpc
+  Updated URL not valid: https://mvnrepository.com/artifact/io.grpc/protoc-gen-grpc-java/revgrpc
+Searching Maven Repository for: io.grpc protoc-gen-grpc-java revgrpc
+  Could not find a valid URL.
+Processing URLs:  40%|█████████████████████████▏                                     | 89/223 [00:17<00:22,  5.83url/s]Processing URL: http://mvnrepository.com/artifact/io.micrometer/micrometer-registry-prometheus/revmicrometer
+  Trying updated URL: https://mvnrepository.com/artifact/io.micrometer/micrometer-registry-prometheus/revmicrometer
+  Updated URL not valid: https://mvnrepository.com/artifact/io.micrometer/micrometer-registry-prometheus/revmicrometer
+Searching Maven Repository for: io.micrometer micrometer-registry-prometheus revmicrometer
+  Could not find a valid URL.
+Processing URLs:  40%|█████████████████████████▍                                     | 90/223 [00:17<00:24,  5.43url/s]Processing URL: http://mvnrepository.com/artifact/io.nats/java-nats-streaming/revstan
+  Trying updated URL: https://mvnrepository.com/artifact/io.nats/java-nats-streaming/revstan
+  Updated URL not valid: https://mvnrepository.com/artifact/io.nats/java-nats-streaming/revstan
+Searching Maven Repository for: io.nats java-nats-streaming revstan
+  Could not find a valid URL.
+Processing URLs:  41%|█████████████████████████▋                                     | 91/223 [00:18<00:23,  5.53url/s]Processing URL: http://mvnrepository.com/artifact/io.nats/jnats/revnats
+  Trying updated URL: https://mvnrepository.com/artifact/io.nats/jnats/revnats
+  Updated URL not valid: https://mvnrepository.com/artifact/io.nats/jnats/revnats
+Searching Maven Repository for: io.nats jnats revnats
+  Could not find a valid URL.
+Processing URLs:  41%|█████████████████████████▉                                     | 92/223 [00:18<00:26,  5.01url/s]Processing URL: http://mvnrepository.com/artifact/io.nats/jnats/revnatsstreaming
+  Trying updated URL: https://mvnrepository.com/artifact/io.nats/jnats/revnatsstreaming
+  Updated URL not valid: https://mvnrepository.com/artifact/io.nats/jnats/revnatsstreaming
+Searching Maven Repository for: io.nats jnats revnatsstreaming
+  Could not find a valid URL.
+Processing URLs:  42%|██████████████████████████▎                                    | 93/223 [00:18<00:25,  5.13url/s]Processing URL: http://mvnrepository.com/artifact/io.orkes.queues/orkes-conductor-queues/revorkesqueues
+  Trying updated URL: https://mvnrepository.com/artifact/io.orkes.queues/orkes-conductor-queues/revorkesqueues
+  Updated URL not valid: https://mvnrepository.com/artifact/io.orkes.queues/orkes-conductor-queues/revorkesqueues
+Searching Maven Repository for: io.orkes.queues orkes-conductor-queues revorkesqueues
+  Could not find a valid URL.
+Processing URLs:  42%|██████████████████████████▌                                    | 94/223 [00:18<00:24,  5.35url/s]Processing URL: http://mvnrepository.com/artifact/io.prometheus/simpleclient/revprometheus
+  Trying updated URL: https://mvnrepository.com/artifact/io.prometheus/simpleclient/revprometheus
+  Updated URL not valid: https://mvnrepository.com/artifact/io.prometheus/simpleclient/revprometheus
+Searching Maven Repository for: io.prometheus simpleclient revprometheus
+  Could not find a valid URL.
+Processing URLs:  43%|██████████████████████████▊                                    | 95/223 [00:18<00:27,  4.68url/s]Processing URL: http://mvnrepository.com/artifact/io.reactivex/rxjava/revrxjava
+  Trying updated URL: https://mvnrepository.com/artifact/io.reactivex/rxjava/revrxjava
+  Updated URL not valid: https://mvnrepository.com/artifact/io.reactivex/rxjava/revrxjava
+Searching Maven Repository for: io.reactivex rxjava revrxjava
+  Could not find a valid URL.
+Processing URLs:  43%|███████████████████████████                                    | 96/223 [00:19<00:25,  5.01url/s]Processing URL: http://mvnrepository.com/artifact/io.swagger/swagger-annotations/swagger_annotations_version
+  Trying updated URL: https://mvnrepository.com/artifact/io.swagger/swagger-annotations/swagger_annotations_version
+  Updated URL not valid: https://mvnrepository.com/artifact/io.swagger/swagger-annotations/swagger_annotations_version
+Searching Maven Repository for: io.swagger swagger-annotations swagger_annotations_version
+  Could not find a valid URL.
+Processing URLs:  43%|███████████████████████████▍                                   | 97/223 [00:19<00:24,  5.20url/s]Processing URL: http://mvnrepository.com/artifact/io.swagger/swagger-core/${swagger.version}
+  Trying updated URL: https://mvnrepository.com/artifact/io.swagger/swagger-core/${swagger.version}
+  Updated URL not valid: https://mvnrepository.com/artifact/io.swagger/swagger-core/${swagger.version}
+Searching Maven Repository for: io.swagger swagger-core ${swagger.version}
+  Could not find a valid URL.
+Processing URLs:  44%|███████████████████████████▋                                   | 98/223 [00:19<00:29,  4.17url/s]Processing URL: http://mvnrepository.com/artifact/jakarta.activation/jakarta.activation-api/revactivation
+  Trying updated URL: https://mvnrepository.com/artifact/jakarta.activation/jakarta.activation-api/revactivation
+  Updated URL not valid: https://mvnrepository.com/artifact/jakarta.activation/jakarta.activation-api/revactivation
+Searching Maven Repository for: jakarta.activation jakarta.activation-api revactivation
+  Could not find a valid URL.
+Processing URLs:  44%|███████████████████████████▉                                   | 99/223 [00:19<00:29,  4.19url/s]Processing URL: http://mvnrepository.com/artifact/jakarta.annotation/jakarta.annotation-api/jakarta_annotation_version
+  Trying updated URL: https://mvnrepository.com/artifact/jakarta.annotation/jakarta.annotation-api/jakarta_annotation_version
+  Updated URL not valid: https://mvnrepository.com/artifact/jakarta.annotation/jakarta.annotation-api/jakarta_annotation_version
+Searching Maven Repository for: jakarta.annotation jakarta.annotation-api jakarta_annotation_version
+  Could not find a valid URL.
+Processing URLs:  45%|███████████████████████████▊                                  | 100/223 [00:20<00:33,  3.62url/s]Processing URL: http://mvnrepository.com/artifact/jakarta.annotation/jakarta.annotation-api/revjakartaannotation
+  Trying updated URL: https://mvnrepository.com/artifact/jakarta.annotation/jakarta.annotation-api/revjakartaannotation
+  Updated URL not valid: https://mvnrepository.com/artifact/jakarta.annotation/jakarta.annotation-api/revjakartaannotation
+Searching Maven Repository for: jakarta.annotation jakarta.annotation-api revjakartaannotation
+  Could not find a valid URL.
+Processing URLs:  45%|████████████████████████████                                  | 101/223 [00:20<00:29,  4.10url/s]Processing URL: http://mvnrepository.com/artifact/jakarta.xml.bind/jakarta.xml.bind-api/revjaxb
+  Trying updated URL: https://mvnrepository.com/artifact/jakarta.xml.bind/jakarta.xml.bind-api/revjaxb
+  Updated URL not valid: https://mvnrepository.com/artifact/jakarta.xml.bind/jakarta.xml.bind-api/revjaxb
+Searching Maven Repository for: jakarta.xml.bind jakarta.xml.bind-api revjaxb
+  Could not find a valid URL.
+Processing URLs:  46%|████████████████████████████▎                                 | 102/223 [00:20<00:26,  4.51url/s]Processing URL: http://mvnrepository.com/artifact/javax.jws/jsr181-api/1.0-mr1
+  Trying updated URL: https://mvnrepository.com/artifact/javax.jws/jsr181-api/1.0-mr1
+  Updated URL not valid: https://mvnrepository.com/artifact/javax.jws/jsr181-api/1.0-mr1
+Searching Maven Repository for: javax.jws jsr181-api 1.0-mr1
+  Could not find a valid URL.
+Processing URLs:  46%|████████████████████████████▋                                 | 103/223 [00:20<00:27,  4.44url/s]Processing URL: http://mvnrepository.com/artifact/javax.ws.rs/javax.ws.rs-api/revjaxrs
+  Trying updated URL: https://mvnrepository.com/artifact/javax.ws.rs/javax.ws.rs-api/revjaxrs
+  Updated URL not valid: https://mvnrepository.com/artifact/javax.ws.rs/javax.ws.rs-api/revjaxrs
+Searching Maven Repository for: javax.ws.rs javax.ws.rs-api revjaxrs
+  Could not find a valid URL.
+Processing URLs:  47%|████████████████████████████▉                                 | 104/223 [00:21<00:27,  4.37url/s]Processing URL: http://mvnrepository.com/artifact/javax.ws.rs/jsr311-api/revjsr311api
+  Trying updated URL: https://mvnrepository.com/artifact/javax.ws.rs/jsr311-api/revjsr311api
+  Updated URL not valid: https://mvnrepository.com/artifact/javax.ws.rs/jsr311-api/revjsr311api
+Searching Maven Repository for: javax.ws.rs jsr311-api revjsr311api
+  Could not find a valid URL.
+Processing URLs:  47%|█████████████████████████████▏                                | 105/223 [00:21<00:24,  4.83url/s]Processing URL: http://mvnrepository.com/artifact/jetbrains/jbrsdk/17.0.3-b469.32
+  Trying updated URL: https://mvnrepository.com/artifact/jetbrains/jbrsdk/17.0.3-b469.32
+  Updated URL not valid: https://mvnrepository.com/artifact/jetbrains/jbrsdk/17.0.3-b469.32
+Searching Maven Repository for: jetbrains jbrsdk 17.0.3-b469.32
+  Could not find a valid URL.
+Processing URLs:  48%|█████████████████████████████▍                                | 106/223 [00:21<00:23,  4.96url/s]Processing URL: http://mvnrepository.com/artifact/kyno-resources/bundle-files/1.8.0@zip
+  Trying updated URL: https://mvnrepository.com/artifact/kyno-resources/bundle-files/1.8.0@zip
+  Updated URL not valid: https://mvnrepository.com/artifact/kyno-resources/bundle-files/1.8.0@zip
+Searching Maven Repository for: kyno-resources bundle-files 1.8.0@zip
+  Could not find a valid URL.
+Processing URLs:  48%|█████████████████████████████▋                                | 107/223 [00:21<00:23,  4.91url/s]Processing URL: http://mvnrepository.com/artifact/me-common version/$melibs.versions.media.engine.common.get/
+  Trying updated URL: https://mvnrepository.com/artifact/me-common version/$melibs.versions.media.engine.common.get/
+  Updated URL not valid: https://mvnrepository.com/artifact/me-common version/$melibs.versions.media.engine.common.get/
+Searching Maven Repository for: me-common version $melibs.versions.media.engine.common.get
+  Could not find a valid URL.
+Processing URLs:  48%|██████████████████████████████                                | 108/223 [00:21<00:23,  4.94url/s]Processing URL: http://mvnrepository.com/artifact/mediaengine-controller/media-engine-controller-$platform/mecversion@zip
+  Trying updated URL: https://mvnrepository.com/artifact/mediaengine-controller/media-engine-controller-$platform/mecversion@zip
+  Updated URL not valid: https://mvnrepository.com/artifact/mediaengine-controller/media-engine-controller-$platform/mecversion@zip
+Searching Maven Repository for: mediaengine-controller media-engine-controller-$platform mecversion@zip
+  Could not find a valid URL.
+Processing URLs:  49%|██████████████████████████████▎                               | 109/223 [00:22<00:22,  5.13url/s]Processing URL: http://mvnrepository.com/artifact/mediaengine/mediaengine-lgpl-$platform/meversion@zip
+  Trying updated URL: https://mvnrepository.com/artifact/mediaengine/mediaengine-lgpl-$platform/meversion@zip
+  Updated URL not valid: https://mvnrepository.com/artifact/mediaengine/mediaengine-lgpl-$platform/meversion@zip
+Searching Maven Repository for: mediaengine mediaengine-lgpl-$platform meversion@zip
+  Could not find a valid URL.
+Processing URLs:  49%|██████████████████████████████▌                               | 110/223 [00:22<00:22,  5.11url/s]Processing URL: http://mvnrepository.com/artifact/mediaengine/mediaengine-lgpl_linux_x86_64/melibs.versions.media.engine.release@zip
+  Trying updated URL: https://mvnrepository.com/artifact/mediaengine/mediaengine-lgpl_linux_x86_64/melibs.versions.media.engine.release@zip
+  Updated URL not valid: https://mvnrepository.com/artifact/mediaengine/mediaengine-lgpl_linux_x86_64/melibs.versions.media.engine.release@zip
+Searching Maven Repository for: mediaengine mediaengine-lgpl_linux_x86_64 melibs.versions.media.engine.release@zip
+  Could not find a valid URL.
+Processing URLs:  50%|██████████████████████████████▊                               | 111/223 [00:22<00:21,  5.22url/s]Processing URL: http://mvnrepository.com/artifact/mediaengine/mediaengine-lgpl_linux_x86_64/meversion
+  Trying updated URL: https://mvnrepository.com/artifact/mediaengine/mediaengine-lgpl_linux_x86_64/meversion
+  Updated URL not valid: https://mvnrepository.com/artifact/mediaengine/mediaengine-lgpl_linux_x86_64/meversion
+Searching Maven Repository for: mediaengine mediaengine-lgpl_linux_x86_64 meversion
+  Could not find a valid URL.
+Processing URLs:  50%|███████████████████████████████▏                              | 112/223 [00:22<00:21,  5.17url/s]Processing URL: http://mvnrepository.com/artifact/net.sf.saxon/Saxon-HE/${saxon.version}
+  Trying updated URL: https://mvnrepository.com/artifact/net.sf.saxon/Saxon-HE/${saxon.version}
+  Updated URL not valid: https://mvnrepository.com/artifact/net.sf.saxon/Saxon-HE/${saxon.version}
+Searching Maven Repository for: net.sf.saxon Saxon-HE ${saxon.version}
+  Could not find a valid URL.
+Processing URLs:  51%|███████████████████████████████▍                              | 113/223 [00:22<00:21,  5.16url/s]Processing URL: http://mvnrepository.com/artifact/net.sf.saxon/saxon-he/11.3
+  Trying updated URL: https://mvnrepository.com/artifact/net.sf.saxon/saxon-he/11.3
+  Updated URL not valid: https://mvnrepository.com/artifact/net.sf.saxon/saxon-he/11.3
+Searching Maven Repository for: net.sf.saxon saxon-he 11.3
+  Could not find a valid URL.
+Processing URLs:  51%|███████████████████████████████▋                              | 114/223 [00:22<00:20,  5.44url/s]Processing URL: http://mvnrepository.com/artifact/net.telestream.vantage/vantagesdk/4.0.0
+  Trying updated URL: https://mvnrepository.com/artifact/net.telestream.vantage/vantagesdk/4.0.0
+  Updated URL not valid: https://mvnrepository.com/artifact/net.telestream.vantage/vantagesdk/4.0.0
+Searching Maven Repository for: net.telestream.vantage vantagesdk 4.0.0
+  Could not find a valid URL.
+Processing URLs:  52%|███████████████████████████████▉                              | 115/223 [00:23<00:19,  5.53url/s]Processing URL: http://mvnrepository.com/artifact/net.thisptr/jackson-jq/revjq
+  Trying updated URL: https://mvnrepository.com/artifact/net.thisptr/jackson-jq/revjq
+  Updated URL not valid: https://mvnrepository.com/artifact/net.thisptr/jackson-jq/revjq
+Searching Maven Repository for: net.thisptr jackson-jq revjq
+  Could not find a valid URL.
+Processing URLs:  52%|████████████████████████████████▎                             | 116/223 [00:23<00:19,  5.60url/s]Processing URL: http://mvnrepository.com/artifact/nl.captcha/simpleCaptcha/1.2.1
+  Trying updated URL: https://mvnrepository.com/artifact/nl.captcha/simpleCaptcha/1.2.1
+  Updated URL not valid: https://mvnrepository.com/artifact/nl.captcha/simpleCaptcha/1.2.1
+Searching Maven Repository for: nl.captcha simpleCaptcha 1.2.1
+  Could not find a valid URL.
+Processing URLs:  52%|████████████████████████████████▌                             | 117/223 [00:23<00:18,  5.78url/s]Processing URL: http://mvnrepository.com/artifact/oraclelinux/8-slim/
+  Trying updated URL: https://mvnrepository.com/artifact/oraclelinux/8-slim/
+  Updated URL not valid: https://mvnrepository.com/artifact/oraclelinux/8-slim/
+Searching Maven Repository for: oraclelinux 8-slim
+  Could not find a valid URL.
+Processing URLs:  53%|████████████████████████████████▊                             | 118/223 [00:23<00:17,  5.90url/s]Processing URL: http://mvnrepository.com/artifact/org.antlr/st4/4.3.3
+  Trying updated URL: https://mvnrepository.com/artifact/org.antlr/st4/4.3.3
+  Updated URL not valid: https://mvnrepository.com/artifact/org.antlr/st4/4.3.3
+Searching Maven Repository for: org.antlr st4 4.3.3
+  Could not find a valid URL.
+Processing URLs:  53%|█████████████████████████████████                             | 119/223 [00:23<00:17,  5.83url/s]Processing URL: http://mvnrepository.com/artifact/org.apache.bval/bval-jsr/revbval
+  Trying updated URL: https://mvnrepository.com/artifact/org.apache.bval/bval-jsr/revbval
+  Updated URL not valid: https://mvnrepository.com/artifact/org.apache.bval/bval-jsr/revbval
+Searching Maven Repository for: org.apache.bval bval-jsr revbval
+  Could not find a valid URL.
+Processing URLs:  54%|█████████████████████████████████▎                            | 120/223 [00:23<00:18,  5.59url/s]Processing URL: http://mvnrepository.com/artifact/org.apache.commons/commons-compress/${commons-compress.version}
+  Trying updated URL: https://mvnrepository.com/artifact/org.apache.commons/commons-compress/${commons-compress.version}
+  Updated URL not valid: https://mvnrepository.com/artifact/org.apache.commons/commons-compress/${commons-compress.version}
+Searching Maven Repository for: org.apache.commons commons-compress ${commons-compress.version}
+  Could not find a valid URL.
+Processing URLs:  54%|█████████████████████████████████▋                            | 121/223 [00:24<00:17,  5.91url/s]Processing URL: http://mvnrepository.com/artifact/org.apache.commons/commons-lang3/${commons-lang3.version}
+  Trying updated URL: https://mvnrepository.com/artifact/org.apache.commons/commons-lang3/${commons-lang3.version}
+  Updated URL not valid: https://mvnrepository.com/artifact/org.apache.commons/commons-lang3/${commons-lang3.version}
+Searching Maven Repository for: org.apache.commons commons-lang3 ${commons-lang3.version}
+  Could not find a valid URL.
+Processing URLs:  55%|█████████████████████████████████▉                            | 122/223 [00:24<00:19,  5.27url/s]Processing URL: http://mvnrepository.com/artifact/org.apache.groovy/groovy-all/revgroovy
+  Trying updated URL: https://mvnrepository.com/artifact/org.apache.groovy/groovy-all/revgroovy
+  Updated URL not valid: https://mvnrepository.com/artifact/org.apache.groovy/groovy-all/revgroovy
+Searching Maven Repository for: org.apache.groovy groovy-all revgroovy
+  Could not find a valid URL.
+Processing URLs:  55%|██████████████████████████████████▏                           | 123/223 [00:24<00:19,  5.22url/s]Processing URL: http://mvnrepository.com/artifact/org.apache.httpcomponents.client5/httpclient5/revapachehttpcomponentsclient5
+  Trying updated URL: https://mvnrepository.com/artifact/org.apache.httpcomponents.client5/httpclient5/revapachehttpcomponentsclient5
+  Updated URL not valid: https://mvnrepository.com/artifact/org.apache.httpcomponents.client5/httpclient5/revapachehttpcomponentsclient5
+Searching Maven Repository for: org.apache.httpcomponents.client5 httpclient5 revapachehttpcomponentsclient5
+  Could not find a valid URL.
+Processing URLs:  56%|██████████████████████████████████▍                           | 124/223 [00:24<00:19,  5.19url/s]Processing URL: http://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient/${httpclient.version}
+  Trying updated URL: https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient/${httpclient.version}
+  Updated URL not valid: https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient/${httpclient.version}
+Searching Maven Repository for: org.apache.httpcomponents httpclient ${httpclient.version}
+  Could not find a valid URL.
+Processing URLs:  56%|██████████████████████████████████▊                           | 125/223 [00:24<00:18,  5.22url/s]Processing URL: http://mvnrepository.com/artifact/org.apache.httpcomponents/httpcore/${httpcore.version}
+  Trying updated URL: https://mvnrepository.com/artifact/org.apache.httpcomponents/httpcore/${httpcore.version}
+  Updated URL not valid: https://mvnrepository.com/artifact/org.apache.httpcomponents/httpcore/${httpcore.version}
+Searching Maven Repository for: org.apache.httpcomponents httpcore ${httpcore.version}
+  Could not find a valid URL.
+Processing URLs:  57%|███████████████████████████████████                           | 126/223 [00:25<00:18,  5.20url/s]Processing URL: http://mvnrepository.com/artifact/org.apache.kafka/kafka-clients/revkafka
+  Trying updated URL: https://mvnrepository.com/artifact/org.apache.kafka/kafka-clients/revkafka
+  Updated URL not valid: https://mvnrepository.com/artifact/org.apache.kafka/kafka-clients/revkafka
+Searching Maven Repository for: org.apache.kafka kafka-clients revkafka
+  Could not find a valid URL.
+Processing URLs:  57%|███████████████████████████████████▎                          | 127/223 [00:25<00:17,  5.56url/s]Processing URL: http://mvnrepository.com/artifact/org.apache.poi/poi/${poi.version}
+  Trying updated URL: https://mvnrepository.com/artifact/org.apache.poi/poi/${poi.version}
+  Updated URL not valid: https://mvnrepository.com/artifact/org.apache.poi/poi/${poi.version}
+Searching Maven Repository for: org.apache.poi poi ${poi.version}
+  Could not find a valid URL.
+Processing URLs:  57%|███████████████████████████████████▌                          | 128/223 [00:25<00:16,  5.70url/s]Processing URL: http://mvnrepository.com/artifact/org.apache.poi/poi-ooxml/${poi.version}
+  Trying updated URL: https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml/${poi.version}
+  Updated URL not valid: https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml/${poi.version}
+Searching Maven Repository for: org.apache.poi poi-ooxml ${poi.version}
+  Could not find a valid URL.
+Processing URLs:  58%|███████████████████████████████████▊                          | 129/223 [00:25<00:16,  5.68url/s]Processing URL: http://mvnrepository.com/artifact/org.apache.poi/poi-scratchpad/${poi.version}
+  Trying updated URL: https://mvnrepository.com/artifact/org.apache.poi/poi-scratchpad/${poi.version}
+  Updated URL not valid: https://mvnrepository.com/artifact/org.apache.poi/poi-scratchpad/${poi.version}
+Searching Maven Repository for: org.apache.poi poi-scratchpad ${poi.version}
+  Could not find a valid URL.
+Processing URLs:  58%|████████████████████████████████████▏                         | 130/223 [00:25<00:16,  5.71url/s]Processing URL: http://mvnrepository.com/artifact/org.apache.solr/solr-core/solrversion
+  Trying updated URL: https://mvnrepository.com/artifact/org.apache.solr/solr-core/solrversion
+  Updated URL not valid: https://mvnrepository.com/artifact/org.apache.solr/solr-core/solrversion
+Searching Maven Repository for: org.apache.solr solr-core solrversion
+  Could not find a valid URL.
+Processing URLs:  59%|████████████████████████████████████▍                         | 131/223 [00:25<00:16,  5.69url/s]Processing URL: http://mvnrepository.com/artifact/org.apache.solr/solr-solrj/solrversion
+  Trying updated URL: https://mvnrepository.com/artifact/org.apache.solr/solr-solrj/solrversion
+  Updated URL not valid: https://mvnrepository.com/artifact/org.apache.solr/solr-solrj/solrversion
+Searching Maven Repository for: org.apache.solr solr-solrj solrversion
+  Could not find a valid URL.
+Processing URLs:  59%|████████████████████████████████████▋                         | 132/223 [00:26<00:23,  3.86url/s]Processing URL: http://mvnrepository.com/artifact/org.awaitility/awaitility/revawaitility
+  Trying updated URL: https://mvnrepository.com/artifact/org.awaitility/awaitility/revawaitility
+  Updated URL not valid: https://mvnrepository.com/artifact/org.awaitility/awaitility/revawaitility
+Searching Maven Repository for: org.awaitility awaitility revawaitility
+  Could not find a valid URL.
+Processing URLs:  60%|████████████████████████████████████▉                         | 133/223 [00:26<00:20,  4.29url/s]Processing URL: http://mvnrepository.com/artifact/org.clojars.ghoseb/cron4j/2.2.4
+  Trying updated URL: https://mvnrepository.com/artifact/org.clojars.ghoseb/cron4j/2.2.4
+  Updated URL not valid: https://mvnrepository.com/artifact/org.clojars.ghoseb/cron4j/2.2.4
+Searching Maven Repository for: org.clojars.ghoseb cron4j 2.2.4
+  Could not find a valid URL.
+Processing URLs:  60%|█████████████████████████████████████▎                        | 134/223 [00:26<00:19,  4.65url/s]Processing URL: http://mvnrepository.com/artifact/org.codehaus.groovy/groovy-all/3.0.+
+  Trying updated URL: https://mvnrepository.com/artifact/org.codehaus.groovy/groovy-all/3.0.+
+  Updated URL not valid: https://mvnrepository.com/artifact/org.codehaus.groovy/groovy-all/3.0.+
+Searching Maven Repository for: org.codehaus.groovy groovy-all 3.0.+
+  Could not find a valid URL.
+Processing URLs:  61%|█████████████████████████████████████▌                        | 135/223 [00:26<00:17,  4.94url/s]Processing URL: http://mvnrepository.com/artifact/org.eclipse.persistence/eclipselink/2.2.1
+  Trying updated URL: https://mvnrepository.com/artifact/org.eclipse.persistence/eclipselink/2.2.1
+  Updated URL not valid: https://mvnrepository.com/artifact/org.eclipse.persistence/eclipselink/2.2.1
+Searching Maven Repository for: org.eclipse.persistence eclipselink 2.2.1
+  Could not find a valid URL.
+Processing URLs:  61%|█████████████████████████████████████▊                        | 136/223 [00:27<00:17,  5.04url/s]Processing URL: http://mvnrepository.com/artifact/org.elasticsearch.client/elasticsearch-rest-client/revelasticsearch6
+  Trying updated URL: https://mvnrepository.com/artifact/org.elasticsearch.client/elasticsearch-rest-client/revelasticsearch6
+  Updated URL not valid: https://mvnrepository.com/artifact/org.elasticsearch.client/elasticsearch-rest-client/revelasticsearch6
+Searching Maven Repository for: org.elasticsearch.client elasticsearch-rest-client revelasticsearch6
+  Could not find a valid URL.
+Processing URLs:  61%|██████████████████████████████████████                        | 137/223 [00:27<00:16,  5.37url/s]Processing URL: http://mvnrepository.com/artifact/org.elasticsearch.client/elasticsearch-rest-client/revelasticsearch7
+  Trying updated URL: https://mvnrepository.com/artifact/org.elasticsearch.client/elasticsearch-rest-client/revelasticsearch7
+  Updated URL not valid: https://mvnrepository.com/artifact/org.elasticsearch.client/elasticsearch-rest-client/revelasticsearch7
+Searching Maven Repository for: org.elasticsearch.client elasticsearch-rest-client revelasticsearch7
+  Could not find a valid URL.
+Processing URLs:  62%|██████████████████████████████████████▎                       | 138/223 [00:27<00:15,  5.49url/s]Processing URL: http://mvnrepository.com/artifact/org.elasticsearch.client/elasticsearch-rest-high-level-client/revelasticsearch6
+  Trying updated URL: https://mvnrepository.com/artifact/org.elasticsearch.client/elasticsearch-rest-high-level-client/revelasticsearch6
+  Updated URL not valid: https://mvnrepository.com/artifact/org.elasticsearch.client/elasticsearch-rest-high-level-client/revelasticsearch6
+Searching Maven Repository for: org.elasticsearch.client elasticsearch-rest-high-level-client revelasticsearch6
+  Could not find a valid URL.
+Processing URLs:  62%|██████████████████████████████████████▋                       | 139/223 [00:27<00:14,  5.72url/s]Processing URL: http://mvnrepository.com/artifact/org.elasticsearch.client/elasticsearch-rest-high-level-client/revelasticsearch7
+  Trying updated URL: https://mvnrepository.com/artifact/org.elasticsearch.client/elasticsearch-rest-high-level-client/revelasticsearch7
+  Updated URL not valid: https://mvnrepository.com/artifact/org.elasticsearch.client/elasticsearch-rest-high-level-client/revelasticsearch7
+Searching Maven Repository for: org.elasticsearch.client elasticsearch-rest-high-level-client revelasticsearch7
+  Could not find a valid URL.
+Processing URLs:  63%|██████████████████████████████████████▉                       | 140/223 [00:27<00:14,  5.58url/s]Processing URL: http://mvnrepository.com/artifact/org.elasticsearch.client/transport/revelasticsearch6
+  Trying updated URL: https://mvnrepository.com/artifact/org.elasticsearch.client/transport/revelasticsearch6
+  Updated URL not valid: https://mvnrepository.com/artifact/org.elasticsearch.client/transport/revelasticsearch6
+Searching Maven Repository for: org.elasticsearch.client transport revelasticsearch6
+  Could not find a valid URL.
+Processing URLs:  63%|███████████████████████████████████████▏                      | 141/223 [00:27<00:13,  5.96url/s]Processing URL: http://mvnrepository.com/artifact/org.ffmpeg/org.ffmpeg-gpl-__platform__/v20230519.2-cve-2023-5217
+  Trying updated URL: https://mvnrepository.com/artifact/org.ffmpeg/org.ffmpeg-gpl-__platform__/v20230519.2-cve-2023-5217
+  Updated URL not valid: https://mvnrepository.com/artifact/org.ffmpeg/org.ffmpeg-gpl-__platform__/v20230519.2-cve-2023-5217
+Searching Maven Repository for: org.ffmpeg org.ffmpeg-gpl-__platform__ v20230519.2-cve-2023-5217
+  Could not find a valid URL.
+Processing URLs:  64%|███████████████████████████████████████▍                      | 142/223 [00:28<00:14,  5.75url/s]Processing URL: http://mvnrepository.com/artifact/org.glassfish.jaxb/jaxb-runtime/revjaxb
+  Trying updated URL: https://mvnrepository.com/artifact/org.glassfish.jaxb/jaxb-runtime/revjaxb
+  Updated URL not valid: https://mvnrepository.com/artifact/org.glassfish.jaxb/jaxb-runtime/revjaxb
+Searching Maven Repository for: org.glassfish.jaxb jaxb-runtime revjaxb
+  Could not find a valid URL.
+Processing URLs:  64%|███████████████████████████████████████▊                      | 143/223 [00:28<00:14,  5.60url/s]Processing URL: http://mvnrepository.com/artifact/org.glassfish.jersey.connectors/jersey-apache-connector/jersey_version
+  Trying updated URL: https://mvnrepository.com/artifact/org.glassfish.jersey.connectors/jersey-apache-connector/jersey_version
+  Updated URL not valid: https://mvnrepository.com/artifact/org.glassfish.jersey.connectors/jersey-apache-connector/jersey_version
+Searching Maven Repository for: org.glassfish.jersey.connectors jersey-apache-connector jersey_version
+  Could not find a valid URL.
+Processing URLs:  65%|████████████████████████████████████████                      | 144/223 [00:28<00:13,  5.81url/s]Processing URL: http://mvnrepository.com/artifact/org.glassfish.jersey.containers/jersey-container-servlet/${jersey.version}
+  Trying updated URL: https://mvnrepository.com/artifact/org.glassfish.jersey.containers/jersey-container-servlet/${jersey.version}
+  Updated URL not valid: https://mvnrepository.com/artifact/org.glassfish.jersey.containers/jersey-container-servlet/${jersey.version}
+Searching Maven Repository for: org.glassfish.jersey.containers jersey-container-servlet ${jersey.version}
+  Could not find a valid URL.
+Processing URLs:  65%|████████████████████████████████████████▎                     | 145/223 [00:28<00:13,  5.97url/s]Processing URL: http://mvnrepository.com/artifact/org.glassfish.jersey.core/jersey-client/jersey_version
+  Trying updated URL: https://mvnrepository.com/artifact/org.glassfish.jersey.core/jersey-client/jersey_version
+  Updated URL not valid: https://mvnrepository.com/artifact/org.glassfish.jersey.core/jersey-client/jersey_version
+Searching Maven Repository for: org.glassfish.jersey.core jersey-client jersey_version
+  Could not find a valid URL.
+Processing URLs:  65%|████████████████████████████████████████▌                     | 146/223 [00:28<00:13,  5.91url/s]Processing URL: http://mvnrepository.com/artifact/org.glassfish.jersey.core/jersey-common/revjerseycommon
+  Trying updated URL: https://mvnrepository.com/artifact/org.glassfish.jersey.core/jersey-common/revjerseycommon
+  Updated URL not valid: https://mvnrepository.com/artifact/org.glassfish.jersey.core/jersey-common/revjerseycommon
+Searching Maven Repository for: org.glassfish.jersey.core jersey-common revjerseycommon
+  Could not find a valid URL.
+Processing URLs:  66%|████████████████████████████████████████▊                     | 147/223 [00:29<00:13,  5.72url/s]Processing URL: http://mvnrepository.com/artifact/org.glassfish.jersey.inject/jersey-hk2/jersey_version
+  Trying updated URL: https://mvnrepository.com/artifact/org.glassfish.jersey.inject/jersey-hk2/jersey_version
+  Updated URL not valid: https://mvnrepository.com/artifact/org.glassfish.jersey.inject/jersey-hk2/jersey_version
+Searching Maven Repository for: org.glassfish.jersey.inject jersey-hk2 jersey_version
+  Could not find a valid URL.
+Processing URLs:  66%|█████████████████████████████████████████▏                    | 148/223 [00:29<00:12,  5.90url/s]Processing URL: http://mvnrepository.com/artifact/org.glassfish.jersey.media/jersey-media-json-jackson/jersey_version
+  Trying updated URL: https://mvnrepository.com/artifact/org.glassfish.jersey.media/jersey-media-json-jackson/jersey_version
+  Updated URL not valid: https://mvnrepository.com/artifact/org.glassfish.jersey.media/jersey-media-json-jackson/jersey_version
+Searching Maven Repository for: org.glassfish.jersey.media jersey-media-json-jackson jersey_version
+  Could not find a valid URL.
+Processing URLs:  67%|█████████████████████████████████████████▍                    | 149/223 [00:29<00:12,  6.04url/s]Processing URL: http://mvnrepository.com/artifact/org.glassfish.jersey.media/jersey-media-multipart/jersey_version
+  Trying updated URL: https://mvnrepository.com/artifact/org.glassfish.jersey.media/jersey-media-multipart/jersey_version
+  Updated URL not valid: https://mvnrepository.com/artifact/org.glassfish.jersey.media/jersey-media-multipart/jersey_version
+Searching Maven Repository for: org.glassfish.jersey.media jersey-media-multipart jersey_version
+  Could not find a valid URL.
+Processing URLs:  67%|█████████████████████████████████████████▋                    | 150/223 [00:29<00:11,  6.11url/s]Processing URL: http://mvnrepository.com/artifact/org.graalvm/graalvm-community/22.0.2
+  Trying updated URL: https://mvnrepository.com/artifact/org.graalvm/graalvm-community/22.0.2
+  Updated URL not valid: https://mvnrepository.com/artifact/org.graalvm/graalvm-community/22.0.2
+Searching Maven Repository for: org.graalvm graalvm-community 22.0.2
+  Could not find a valid URL.
+Processing URLs:  68%|█████████████████████████████████████████▉                    | 151/223 [00:29<00:12,  5.87url/s]Processing URL: http://mvnrepository.com/artifact/org.hamcrest/hamcrest-library/${hamcrest-library.version}
+  Trying updated URL: https://mvnrepository.com/artifact/org.hamcrest/hamcrest-library/${hamcrest-library.version}
+  Updated URL not valid: https://mvnrepository.com/artifact/org.hamcrest/hamcrest-library/${hamcrest-library.version}
+Searching Maven Repository for: org.hamcrest hamcrest-library ${hamcrest-library.version}
+  Could not find a valid URL.
+Processing URLs:  68%|██████████████████████████████████████████▎                   | 152/223 [00:29<00:12,  5.84url/s]Processing URL: http://mvnrepository.com/artifact/org.hibernate/hibernate-core/5.5.4.final
+  Trying updated URL: https://mvnrepository.com/artifact/org.hibernate/hibernate-core/5.5.4.final
+  Updated URL not valid: https://mvnrepository.com/artifact/org.hibernate/hibernate-core/5.5.4.final
+Searching Maven Repository for: org.hibernate hibernate-core 5.5.4.final
+  Could not find a valid URL.
+Processing URLs:  69%|██████████████████████████████████████████▌                   | 153/223 [00:30<00:12,  5.83url/s]Processing URL: http://mvnrepository.com/artifact/org.hibernate/hibernate-hikaricp/5.5.4.final
+  Trying updated URL: https://mvnrepository.com/artifact/org.hibernate/hibernate-hikaricp/5.5.4.final
+  Updated URL not valid: https://mvnrepository.com/artifact/org.hibernate/hibernate-hikaricp/5.5.4.final
+Searching Maven Repository for: org.hibernate hibernate-hikaricp 5.5.4.final
+  Could not find a valid URL.
+Processing URLs:  69%|██████████████████████████████████████████▊                   | 154/223 [00:30<00:12,  5.66url/s]Processing URL: http://mvnrepository.com/artifact/org.hibernate/hibernate-validator/5.4.1.final
+  Trying updated URL: https://mvnrepository.com/artifact/org.hibernate/hibernate-validator/5.4.1.final
+  Updated URL not valid: https://mvnrepository.com/artifact/org.hibernate/hibernate-validator/5.4.1.final
+Searching Maven Repository for: org.hibernate hibernate-validator 5.4.1.final
+  Could not find a valid URL.
+Processing URLs:  70%|███████████████████████████████████████████                   | 155/223 [00:30<00:12,  5.60url/s]Processing URL: http://mvnrepository.com/artifact/org.im4java/im4java/1.1.0
+  Trying updated URL: https://mvnrepository.com/artifact/org.im4java/im4java/1.1.0
+  Updated URL not valid: https://mvnrepository.com/artifact/org.im4java/im4java/1.1.0
+Searching Maven Repository for: org.im4java im4java 1.1.0
+  Could not find a valid URL.
+Processing URLs:  70%|███████████████████████████████████████████▎                  | 156/223 [00:30<00:11,  5.64url/s]Processing URL: http://mvnrepository.com/artifact/org.immutables/value/${immutables.version}
+  Trying updated URL: https://mvnrepository.com/artifact/org.immutables/value/${immutables.version}
+  Updated URL not valid: https://mvnrepository.com/artifact/org.immutables/value/${immutables.version}
+Searching Maven Repository for: org.immutables value ${immutables.version}
+  Could not find a valid URL.
+Processing URLs:  70%|███████████████████████████████████████████▋                  | 157/223 [00:30<00:11,  5.92url/s]Processing URL: http://mvnrepository.com/artifact/org.jacoco/org.jacoco.agent/${maven.jacoco.plugin.version}
+  Trying updated URL: https://mvnrepository.com/artifact/org.jacoco/org.jacoco.agent/${maven.jacoco.plugin.version}
+  Updated URL not valid: https://mvnrepository.com/artifact/org.jacoco/org.jacoco.agent/${maven.jacoco.plugin.version}
+Searching Maven Repository for: org.jacoco org.jacoco.agent ${maven.jacoco.plugin.version}
+  Could not find a valid URL.
+Processing URLs:  71%|███████████████████████████████████████████▉                  | 158/223 [00:30<00:10,  6.00url/s]Processing URL: http://mvnrepository.com/artifact/org.jboss.logging/jboss-logging/3.3.2.final
+  Trying updated URL: https://mvnrepository.com/artifact/org.jboss.logging/jboss-logging/3.3.2.final
+  Updated URL not valid: https://mvnrepository.com/artifact/org.jboss.logging/jboss-logging/3.3.2.final
+Searching Maven Repository for: org.jboss.logging jboss-logging 3.3.2.final
+  Could not find a valid URL.
+Processing URLs:  71%|████████████████████████████████████████████▏                 | 159/223 [00:31<00:10,  5.93url/s]Processing URL: http://mvnrepository.com/artifact/org.jfrog.buildinfo/build-info-extractor-gradle/[5.1.5,6.0.0
+  Trying updated URL: https://mvnrepository.com/artifact/org.jfrog.buildinfo/build-info-extractor-gradle/[5.1.5,6.0.0
+  Updated URL not valid: https://mvnrepository.com/artifact/org.jfrog.buildinfo/build-info-extractor-gradle/[5.1.5,6.0.0
+Searching Maven Repository for: org.jfrog.buildinfo build-info-extractor-gradle [5.1.5,6.0.0
+  Could not find a valid URL.
+Processing URLs:  72%|████████████████████████████████████████████▍                 | 160/223 [00:31<00:10,  5.89url/s]Processing URL: http://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api/junit_version
+  Trying updated URL: https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api/junit_version
+  Updated URL not valid: https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api/junit_version
+Searching Maven Repository for: org.junit.jupiter junit-jupiter-api junit_version
+  Could not find a valid URL.
+Processing URLs:  72%|████████████████████████████████████████████▊                 | 161/223 [00:31<00:10,  5.86url/s]Processing URL: http://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine/junit_version
+  Trying updated URL: https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine/junit_version
+  Updated URL not valid: https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine/junit_version
+Searching Maven Repository for: org.junit.jupiter junit-jupiter-engine junit_version
+  Could not find a valid URL.
+Processing URLs:  73%|█████████████████████████████████████████████                 | 162/223 [00:31<00:10,  5.84url/s]Processing URL: http://mvnrepository.com/artifact/org.khronos/org.khronos.opencl-dev-__platform__/2.1
+  Trying updated URL: https://mvnrepository.com/artifact/org.khronos/org.khronos.opencl-dev-__platform__/2.1
+  Updated URL not valid: https://mvnrepository.com/artifact/org.khronos/org.khronos.opencl-dev-__platform__/2.1
+Searching Maven Repository for: org.khronos org.khronos.opencl-dev-__platform__ 2.1
+  Could not find a valid URL.
+Processing URLs:  73%|█████████████████████████████████████████████▎                | 163/223 [00:31<00:10,  5.99url/s]Processing URL: http://mvnrepository.com/artifact/org.khronos/org.khronos.opengl-dev-__platform__/4.5
+  Trying updated URL: https://mvnrepository.com/artifact/org.khronos/org.khronos.opengl-dev-__platform__/4.5
+  Updated URL not valid: https://mvnrepository.com/artifact/org.khronos/org.khronos.opengl-dev-__platform__/4.5
+Searching Maven Repository for: org.khronos org.khronos.opengl-dev-__platform__ 4.5
+  Could not find a valid URL.
+Processing URLs:  74%|█████████████████████████████████████████████▌                | 164/223 [00:31<00:10,  5.60url/s]Processing URL: http://mvnrepository.com/artifact/org.mock-server/mockserver-client-java/revmockserverclient
+  Trying updated URL: https://mvnrepository.com/artifact/org.mock-server/mockserver-client-java/revmockserverclient
+  Updated URL not valid: https://mvnrepository.com/artifact/org.mock-server/mockserver-client-java/revmockserverclient
+Searching Maven Repository for: org.mock-server mockserver-client-java revmockserverclient
+  Could not find a valid URL.
+Processing URLs:  74%|█████████████████████████████████████████████▊                | 165/223 [00:32<00:10,  5.66url/s]Processing URL: http://mvnrepository.com/artifact/org.mockftpserver/mockftpserver/2.4
+  Trying updated URL: https://mvnrepository.com/artifact/org.mockftpserver/mockftpserver/2.4
+  Updated URL not valid: https://mvnrepository.com/artifact/org.mockftpserver/mockftpserver/2.4
+Searching Maven Repository for: org.mockftpserver mockftpserver 2.4
+  Could not find a valid URL.
+Processing URLs:  74%|██████████████████████████████████████████████▏               | 166/223 [00:32<00:10,  5.69url/s]Processing URL: http://mvnrepository.com/artifact/org.oiio/org.oiio-__platform__/2.3.17.0-cve-2023-4863
+  Trying updated URL: https://mvnrepository.com/artifact/org.oiio/org.oiio-__platform__/2.3.17.0-cve-2023-4863
+  Updated URL not valid: https://mvnrepository.com/artifact/org.oiio/org.oiio-__platform__/2.3.17.0-cve-2023-4863
+Searching Maven Repository for: org.oiio org.oiio-__platform__ 2.3.17.0-cve-2023-4863
+  Could not find a valid URL.
+Processing URLs:  75%|██████████████████████████████████████████████▍               | 167/223 [00:32<00:10,  5.58url/s]Processing URL: http://mvnrepository.com/artifact/org.openapitools/jackson-databind-nullable/jackson_databind_nullable_version
+  Trying updated URL: https://mvnrepository.com/artifact/org.openapitools/jackson-databind-nullable/jackson_databind_nullable_version
+  Updated URL not valid: https://mvnrepository.com/artifact/org.openapitools/jackson-databind-nullable/jackson_databind_nullable_version
+Searching Maven Repository for: org.openapitools jackson-databind-nullable jackson_databind_nullable_version
+  Could not find a valid URL.
+Processing URLs:  75%|██████████████████████████████████████████████▋               | 168/223 [00:32<00:09,  5.51url/s]Processing URL: http://mvnrepository.com/artifact/org.postgresql/postgresql/revpostgres
+  Trying updated URL: https://mvnrepository.com/artifact/org.postgresql/postgresql/revpostgres
+  Updated URL not valid: https://mvnrepository.com/artifact/org.postgresql/postgresql/revpostgres
+Searching Maven Repository for: org.postgresql postgresql revpostgres
+  Could not find a valid URL.
+Processing URLs:  76%|██████████████████████████████████████████████▉               | 169/223 [00:32<00:09,  5.42url/s]Processing URL: http://mvnrepository.com/artifact/org.powermock/powermock-api-mockito2/revpowermock
+  Trying updated URL: https://mvnrepository.com/artifact/org.powermock/powermock-api-mockito2/revpowermock
+  Updated URL not valid: https://mvnrepository.com/artifact/org.powermock/powermock-api-mockito2/revpowermock
+Searching Maven Repository for: org.powermock powermock-api-mockito2 revpowermock
+  Could not find a valid URL.
+Processing URLs:  76%|███████████████████████████████████████████████▎              | 170/223 [00:33<00:10,  5.25url/s]Processing URL: http://mvnrepository.com/artifact/org.powermock/powermock-module-junit4/revpowermock
+  Trying updated URL: https://mvnrepository.com/artifact/org.powermock/powermock-module-junit4/revpowermock
+  Updated URL not valid: https://mvnrepository.com/artifact/org.powermock/powermock-module-junit4/revpowermock
+Searching Maven Repository for: org.powermock powermock-module-junit4 revpowermock
+  Could not find a valid URL.
+Processing URLs:  77%|███████████████████████████████████████████████▌              | 171/223 [00:33<00:09,  5.40url/s]Processing URL: http://mvnrepository.com/artifact/org.rarefiedredis.redis/redis-java/revrarefiedredis
+  Trying updated URL: https://mvnrepository.com/artifact/org.rarefiedredis.redis/redis-java/revrarefiedredis
+  Updated URL not valid: https://mvnrepository.com/artifact/org.rarefiedredis.redis/redis-java/revrarefiedredis
+Searching Maven Repository for: org.rarefiedredis.redis redis-java revrarefiedredis
+  Could not find a valid URL.
+Processing URLs:  77%|███████████████████████████████████████████████▊              | 172/223 [00:33<00:09,  5.49url/s]Processing URL: http://mvnrepository.com/artifact/org.redisson/redisson/revredisson
+  Trying updated URL: https://mvnrepository.com/artifact/org.redisson/redisson/revredisson
+  Updated URL not valid: https://mvnrepository.com/artifact/org.redisson/redisson/revredisson
+Searching Maven Repository for: org.redisson redisson revredisson
+  Could not find a valid URL.
+Processing URLs:  78%|████████████████████████████████████████████████              | 173/223 [00:33<00:09,  5.47url/s]Processing URL: http://mvnrepository.com/artifact/org.sparkle/sparkle/1.14.0
+  Trying updated URL: https://mvnrepository.com/artifact/org.sparkle/sparkle/1.14.0
+  Updated URL not valid: https://mvnrepository.com/artifact/org.sparkle/sparkle/1.14.0
+Searching Maven Repository for: org.sparkle sparkle 1.14.0
+  Could not find a valid URL.
+Processing URLs:  78%|████████████████████████████████████████████████▍             | 174/223 [00:33<00:09,  5.29url/s]Processing URL: http://mvnrepository.com/artifact/org.spockframework/spock-core/revspock
+  Trying updated URL: https://mvnrepository.com/artifact/org.spockframework/spock-core/revspock
+  Updated URL not valid: https://mvnrepository.com/artifact/org.spockframework/spock-core/revspock
+Searching Maven Repository for: org.spockframework spock-core revspock
+  Could not find a valid URL.
+Processing URLs:  78%|████████████████████████████████████████████████▋             | 175/223 [00:33<00:08,  5.43url/s]Processing URL: http://mvnrepository.com/artifact/org.spockframework/spock-spring/revspock
+  Trying updated URL: https://mvnrepository.com/artifact/org.spockframework/spock-spring/revspock
+  Updated URL not valid: https://mvnrepository.com/artifact/org.spockframework/spock-spring/revspock
+Searching Maven Repository for: org.spockframework spock-spring revspock
+  Could not find a valid URL.
+Processing URLs:  79%|████████████████████████████████████████████████▉             | 176/223 [00:34<00:08,  5.52url/s]Processing URL: http://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-starter-webmvc-ui/revspringdoc
+  Trying updated URL: https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-starter-webmvc-ui/revspringdoc
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-starter-webmvc-ui/revspringdoc
+Searching Maven Repository for: org.springdoc springdoc-openapi-starter-webmvc-ui revspringdoc
+  Could not find a valid URL.
+Processing URLs:  79%|█████████████████████████████████████████████████▏            | 177/223 [00:34<00:08,  5.45url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework.amqp/spring-amqp/1.1.4.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework.amqp/spring-amqp/1.1.4.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework.amqp/spring-amqp/1.1.4.release
+Searching Maven Repository for: org.springframework.amqp spring-amqp 1.1.4.release
+  Could not find a valid URL.
+Processing URLs:  80%|█████████████████████████████████████████████████▍            | 178/223 [00:34<00:07,  5.86url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework.amqp/spring-rabbit/1.1.4.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework.amqp/spring-rabbit/1.1.4.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework.amqp/spring-rabbit/1.1.4.release
+Searching Maven Repository for: org.springframework.amqp spring-rabbit 1.1.4.release
+  Could not find a valid URL.
+Processing URLs:  80%|█████████████████████████████████████████████████▊            | 179/223 [00:34<00:07,  6.00url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework.boot/spring-boot-configuration-processor/2.3.4.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-configuration-processor/2.3.4.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-configuration-processor/2.3.4.release
+Searching Maven Repository for: org.springframework.boot spring-boot-configuration-processor 2.3.4.release
+  Could not find a valid URL.
+Processing URLs:  81%|██████████████████████████████████████████████████            | 180/223 [00:34<00:07,  5.78url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework.boot/spring-boot-devtools/2.3.3.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-devtools/2.3.3.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-devtools/2.3.3.release
+Searching Maven Repository for: org.springframework.boot spring-boot-devtools 2.3.3.release
+  Could not find a valid URL.
+Processing URLs:  81%|██████████████████████████████████████████████████▎           | 181/223 [00:34<00:06,  6.12url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework.boot/spring-boot-gradle-plugin/springbootversion
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-gradle-plugin/springbootversion
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-gradle-plugin/springbootversion
+Searching Maven Repository for: org.springframework.boot spring-boot-gradle-plugin springbootversion
+  Could not find a valid URL.
+Processing URLs:  82%|██████████████████████████████████████████████████▌           | 182/223 [00:35<00:06,  6.02url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-jpa/2.3.3.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-jpa/2.3.3.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-jpa/2.3.3.release
+Searching Maven Repository for: org.springframework.boot spring-boot-starter-data-jpa 2.3.3.release
+  Could not find a valid URL.
+Processing URLs:  82%|██████████████████████████████████████████████████▉           | 183/223 [00:35<00:06,  6.12url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-jersey/2.3.3.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-jersey/2.3.3.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-jersey/2.3.3.release
+Searching Maven Repository for: org.springframework.boot spring-boot-starter-jersey 2.3.3.release
+  Could not find a valid URL.
+Processing URLs:  83%|███████████████████████████████████████████████████▏          | 184/223 [00:35<00:06,  6.19url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-security/2.3.3.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-security/2.3.3.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-security/2.3.3.release
+Searching Maven Repository for: org.springframework.boot spring-boot-starter-security 2.3.3.release
+  Could not find a valid URL.
+Processing URLs:  83%|███████████████████████████████████████████████████▍          | 185/223 [00:35<00:06,  6.15url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-test/2.3.3.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-test/2.3.3.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-test/2.3.3.release
+Searching Maven Repository for: org.springframework.boot spring-boot-starter-test 2.3.3.release
+  Could not find a valid URL.
+Processing URLs:  83%|███████████████████████████████████████████████████▋          | 186/223 [00:35<00:05,  6.31url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-webflux/2.3.5.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-webflux/2.3.5.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-webflux/2.3.5.release
+Searching Maven Repository for: org.springframework.boot spring-boot-starter-webflux 2.3.5.release
+  Could not find a valid URL.
+Processing URLs:  84%|███████████████████████████████████████████████████▉          | 187/223 [00:35<00:05,  6.32url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-stream-binder-rabbit/3.0.9.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-stream-binder-rabbit/3.0.9.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-stream-binder-rabbit/3.0.9.release
+Searching Maven Repository for: org.springframework.cloud spring-cloud-stream-binder-rabbit 3.0.9.release
+  Could not find a valid URL.
+Processing URLs:  84%|████████████████████████████████████████████████████▎         | 188/223 [00:36<00:05,  6.16url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework.ldap/spring-ldap-core/2.0.2.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework.ldap/spring-ldap-core/2.0.2.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework.ldap/spring-ldap-core/2.0.2.release
+Searching Maven Repository for: org.springframework.ldap spring-ldap-core 2.0.2.release
+  Could not find a valid URL.
+Processing URLs:  85%|████████████████████████████████████████████████████▌         | 189/223 [00:36<00:05,  6.22url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework.security/spring-security-config/4.0.1.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework.security/spring-security-config/4.0.1.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework.security/spring-security-config/4.0.1.release
+Searching Maven Repository for: org.springframework.security spring-security-config 4.0.1.release
+  Could not find a valid URL.
+Processing URLs:  85%|████████████████████████████████████████████████████▊         | 190/223 [00:36<00:05,  6.08url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework.security/spring-security-core/4.0.1.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework.security/spring-security-core/4.0.1.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework.security/spring-security-core/4.0.1.release
+Searching Maven Repository for: org.springframework.security spring-security-core 4.0.1.release
+  Could not find a valid URL.
+Processing URLs:  86%|█████████████████████████████████████████████████████         | 191/223 [00:36<00:05,  5.83url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework.security/spring-security-ldap/4.0.1.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework.security/spring-security-ldap/4.0.1.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework.security/spring-security-ldap/4.0.1.release
+Searching Maven Repository for: org.springframework.security spring-security-ldap 4.0.1.release
+  Could not find a valid URL.
+Processing URLs:  86%|█████████████████████████████████████████████████████▍        | 192/223 [00:36<00:05,  5.82url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework/spring-aop/4.3.10.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework/spring-aop/4.3.10.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework/spring-aop/4.3.10.release
+Searching Maven Repository for: org.springframework spring-aop 4.3.10.release
+  Could not find a valid URL.
+Processing URLs:  87%|█████████████████████████████████████████████████████▋        | 193/223 [00:36<00:05,  5.97url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework/spring-aspects/4.3.10.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework/spring-aspects/4.3.10.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework/spring-aspects/4.3.10.release
+Searching Maven Repository for: org.springframework spring-aspects 4.3.10.release
+  Could not find a valid URL.
+Processing URLs:  87%|█████████████████████████████████████████████████████▉        | 194/223 [00:37<00:04,  6.08url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework/spring-beans/4.3.10.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework/spring-beans/4.3.10.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework/spring-beans/4.3.10.release
+Searching Maven Repository for: org.springframework spring-beans 4.3.10.release
+  Could not find a valid URL.
+Processing URLs:  87%|██████████████████████████████████████████████████████▏       | 195/223 [00:37<00:04,  6.16url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework/spring-context/4.3.10.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework/spring-context/4.3.10.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework/spring-context/4.3.10.release
+Searching Maven Repository for: org.springframework spring-context 4.3.10.release
+  Could not find a valid URL.
+Processing URLs:  88%|██████████████████████████████████████████████████████▍       | 196/223 [00:37<00:04,  6.17url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework/spring-context-support/4.3.10.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework/spring-context-support/4.3.10.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework/spring-context-support/4.3.10.release
+Searching Maven Repository for: org.springframework spring-context-support 4.3.10.release
+  Could not find a valid URL.
+Processing URLs:  88%|██████████████████████████████████████████████████████▊       | 197/223 [00:37<00:04,  5.76url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework/spring-core/4.3.10.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework/spring-core/4.3.10.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework/spring-core/4.3.10.release
+Searching Maven Repository for: org.springframework spring-core 4.3.10.release
+  Could not find a valid URL.
+Processing URLs:  89%|███████████████████████████████████████████████████████       | 198/223 [00:37<00:04,  5.77url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework/spring-expression/4.3.10.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework/spring-expression/4.3.10.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework/spring-expression/4.3.10.release
+Searching Maven Repository for: org.springframework spring-expression 4.3.10.release
+  Could not find a valid URL.
+Processing URLs:  89%|███████████████████████████████████████████████████████▎      | 199/223 [00:37<00:04,  5.93url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework/spring-jdbc/4.3.10.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework/spring-jdbc/4.3.10.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework/spring-jdbc/4.3.10.release
+Searching Maven Repository for: org.springframework spring-jdbc 4.3.10.release
+  Could not find a valid URL.
+Processing URLs:  90%|███████████████████████████████████████████████████████▌      | 200/223 [00:38<00:03,  5.89url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework/spring-jms/4.3.10.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework/spring-jms/4.3.10.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework/spring-jms/4.3.10.release
+Searching Maven Repository for: org.springframework spring-jms 4.3.10.release
+  Could not find a valid URL.
+Processing URLs:  90%|███████████████████████████████████████████████████████▉      | 201/223 [00:38<00:03,  5.86url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework/spring-test/4.3.10.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework/spring-test/4.3.10.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework/spring-test/4.3.10.release
+Searching Maven Repository for: org.springframework spring-test 4.3.10.release
+  Could not find a valid URL.
+Processing URLs:  91%|████████████████████████████████████████████████████████▏     | 202/223 [00:38<00:03,  5.96url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework/spring-tx/4.3.10.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework/spring-tx/4.3.10.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework/spring-tx/4.3.10.release
+Searching Maven Repository for: org.springframework spring-tx 4.3.10.release
+  Could not find a valid URL.
+Processing URLs:  91%|████████████████████████████████████████████████████████▍     | 203/223 [00:38<00:03,  6.08url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework/spring-web/4.3.10.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework/spring-web/4.3.10.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework/spring-web/4.3.10.release
+Searching Maven Repository for: org.springframework spring-web 4.3.10.release
+  Could not find a valid URL.
+Processing URLs:  91%|████████████████████████████████████████████████████████▋     | 204/223 [00:38<00:03,  5.66url/s]Processing URL: http://mvnrepository.com/artifact/org.springframework/spring-webmvc/4.3.10.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.springframework/spring-webmvc/4.3.10.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.springframework/spring-webmvc/4.3.10.release
+Searching Maven Repository for: org.springframework spring-webmvc 4.3.10.release
+  Could not find a valid URL.
+Processing URLs:  92%|████████████████████████████████████████████████████████▉     | 205/223 [00:38<00:03,  5.69url/s]Processing URL: http://mvnrepository.com/artifact/org.testcontainers/cassandra/revtestcontainer
+  Trying updated URL: https://mvnrepository.com/artifact/org.testcontainers/cassandra/revtestcontainer
+  Updated URL not valid: https://mvnrepository.com/artifact/org.testcontainers/cassandra/revtestcontainer
+Searching Maven Repository for: org.testcontainers cassandra revtestcontainer
+  Could not find a valid URL.
+Processing URLs:  92%|█████████████████████████████████████████████████████████▎    | 206/223 [00:39<00:03,  5.55url/s]Processing URL: http://mvnrepository.com/artifact/org.testcontainers/elasticsearch/revtestcontainer
+  Trying updated URL: https://mvnrepository.com/artifact/org.testcontainers/elasticsearch/revtestcontainer
+  Updated URL not valid: https://mvnrepository.com/artifact/org.testcontainers/elasticsearch/revtestcontainer
+Searching Maven Repository for: org.testcontainers elasticsearch revtestcontainer
+  Could not find a valid URL.
+Processing URLs:  93%|█████████████████████████████████████████████████████████▌    | 207/223 [00:39<00:02,  5.61url/s]Processing URL: http://mvnrepository.com/artifact/org.testcontainers/mockserver/revtestcontainer
+  Trying updated URL: https://mvnrepository.com/artifact/org.testcontainers/mockserver/revtestcontainer
+  Updated URL not valid: https://mvnrepository.com/artifact/org.testcontainers/mockserver/revtestcontainer
+Searching Maven Repository for: org.testcontainers mockserver revtestcontainer
+  Could not find a valid URL.
+Processing URLs:  93%|█████████████████████████████████████████████████████████▊    | 208/223 [00:39<00:02,  5.70url/s]Processing URL: http://mvnrepository.com/artifact/org.testcontainers/mysql/revtestcontainer
+  Trying updated URL: https://mvnrepository.com/artifact/org.testcontainers/mysql/revtestcontainer
+  Updated URL not valid: https://mvnrepository.com/artifact/org.testcontainers/mysql/revtestcontainer
+Searching Maven Repository for: org.testcontainers mysql revtestcontainer
+  Could not find a valid URL.
+Processing URLs:  94%|██████████████████████████████████████████████████████████    | 209/223 [00:39<00:02,  5.83url/s]Processing URL: http://mvnrepository.com/artifact/org.testcontainers/postgresql/revtestcontainer
+  Trying updated URL: https://mvnrepository.com/artifact/org.testcontainers/postgresql/revtestcontainer
+  Updated URL not valid: https://mvnrepository.com/artifact/org.testcontainers/postgresql/revtestcontainer
+Searching Maven Repository for: org.testcontainers postgresql revtestcontainer
+  Could not find a valid URL.
+Processing URLs:  94%|██████████████████████████████████████████████████████████▍   | 210/223 [00:39<00:02,  5.85url/s]Processing URL: http://mvnrepository.com/artifact/org.testcontainers/spock/revtestcontainer
+  Trying updated URL: https://mvnrepository.com/artifact/org.testcontainers/spock/revtestcontainer
+  Updated URL not valid: https://mvnrepository.com/artifact/org.testcontainers/spock/revtestcontainer
+Searching Maven Repository for: org.testcontainers spock revtestcontainer
+  Could not find a valid URL.
+Processing URLs:  95%|██████████████████████████████████████████████████████████▋   | 211/223 [00:40<00:02,  5.90url/s]Processing URL: http://mvnrepository.com/artifact/org.testcontainers/testcontainers/revtestcontainer
+  Trying updated URL: https://mvnrepository.com/artifact/org.testcontainers/testcontainers/revtestcontainer
+  Updated URL not valid: https://mvnrepository.com/artifact/org.testcontainers/testcontainers/revtestcontainer
+Searching Maven Repository for: org.testcontainers testcontainers revtestcontainer
+  Could not find a valid URL.
+Processing URLs:  95%|██████████████████████████████████████████████████████████▉   | 212/223 [00:40<00:01,  5.53url/s]Processing URL: http://mvnrepository.com/artifact/org.testinfected.hamcrest-matchers/all-matchers/revhamcrestallmatchers
+  Trying updated URL: https://mvnrepository.com/artifact/org.testinfected.hamcrest-matchers/all-matchers/revhamcrestallmatchers
+  Updated URL not valid: https://mvnrepository.com/artifact/org.testinfected.hamcrest-matchers/all-matchers/revhamcrestallmatchers
+Searching Maven Repository for: org.testinfected.hamcrest-matchers all-matchers revhamcrestallmatchers
+  Could not find a valid URL.
+Processing URLs:  96%|███████████████████████████████████████████████████████████▏  | 213/223 [00:40<00:01,  5.73url/s]Processing URL: http://mvnrepository.com/artifact/org.testng/testng/6.12
+  Trying updated URL: https://mvnrepository.com/artifact/org.testng/testng/6.12
+  Updated URL not valid: https://mvnrepository.com/artifact/org.testng/testng/6.12
+Searching Maven Repository for: org.testng testng 6.12
+  Could not find a valid URL.
+Processing URLs:  96%|███████████████████████████████████████████████████████████▍  | 214/223 [00:40<00:01,  5.61url/s]Processing URL: http://mvnrepository.com/artifact/org.thymeleaf/thymeleaf/3.0.15.release
+  Trying updated URL: https://mvnrepository.com/artifact/org.thymeleaf/thymeleaf/3.0.15.release
+  Updated URL not valid: https://mvnrepository.com/artifact/org.thymeleaf/thymeleaf/3.0.15.release
+Searching Maven Repository for: org.thymeleaf thymeleaf 3.0.15.release
+  Could not find a valid URL.
+Processing URLs:  96%|███████████████████████████████████████████████████████████▊  | 215/223 [00:40<00:01,  5.63url/s]Processing URL: http://mvnrepository.com/artifact/org.twitter4j/twitter4j-core/[2.2,
+  Trying updated URL: https://mvnrepository.com/artifact/org.twitter4j/twitter4j-core/[2.2,
+  Updated URL not valid: https://mvnrepository.com/artifact/org.twitter4j/twitter4j-core/[2.2,
+Searching Maven Repository for: org.twitter4j twitter4j-core [2.2,
+  Could not find a valid URL.
+Processing URLs:  97%|████████████████████████████████████████████████████████████  | 216/223 [00:40<00:01,  5.68url/s]Processing URL: http://mvnrepository.com/artifact/redis.clients/jedis/revjedis
+  Trying updated URL: https://mvnrepository.com/artifact/redis.clients/jedis/revjedis
+  Updated URL not valid: https://mvnrepository.com/artifact/redis.clients/jedis/revjedis
+Searching Maven Repository for: redis.clients jedis revjedis
+  Could not find a valid URL.
+Processing URLs:  97%|████████████████████████████████████████████████████████████▎ | 217/223 [00:41<00:01,  5.73url/s]Processing URL: http://mvnrepository.com/artifact/sdk_build_buildnumber/$workflowsdkrpmrelease/
+  Trying updated URL: https://mvnrepository.com/artifact/sdk_build_buildnumber/$workflowsdkrpmrelease/
+  Updated URL not valid: https://mvnrepository.com/artifact/sdk_build_buildnumber/$workflowsdkrpmrelease/
+Searching Maven Repository for: sdk_build_buildnumber $workflowsdkrpmrelease
+  Could not find a valid URL.
+Processing URLs:  98%|████████████████████████████████████████████████████████████▌ | 218/223 [00:41<00:00,  5.71url/s]Processing URL: http://mvnrepository.com/artifact/sdk_publish/$sdkcheck.sdkinclude/
+  Trying updated URL: https://mvnrepository.com/artifact/sdk_publish/$sdkcheck.sdkinclude/
+  Updated URL not valid: https://mvnrepository.com/artifact/sdk_publish/$sdkcheck.sdkinclude/
+Searching Maven Repository for: sdk_publish $sdkcheck.sdkinclude
+  Could not find a valid URL.
+Processing URLs:  98%|████████████████████████████████████████████████████████████▉ | 219/223 [00:41<00:00,  5.82url/s]Processing URL: http://mvnrepository.com/artifact/sdkver/$workflowsdkrpmversion/
+  Trying updated URL: https://mvnrepository.com/artifact/sdkver/$workflowsdkrpmversion/
+  Updated URL not valid: https://mvnrepository.com/artifact/sdkver/$workflowsdkrpmversion/
+Searching Maven Repository for: sdkver $workflowsdkrpmversion
+  Could not find a valid URL.
+Processing URLs:  99%|█████████████████████████████████████████████████████████████▏| 220/223 [00:41<00:00,  5.86url/s]Processing URL: http://mvnrepository.com/artifact/usage/wsdl2java/
+  Trying updated URL: https://mvnrepository.com/artifact/usage/wsdl2java/
+  Updated URL not valid: https://mvnrepository.com/artifact/usage/wsdl2java/
+Searching Maven Repository for: usage wsdl2java
+  Could not find a valid URL.
+Processing URLs:  99%|█████████████████████████████████████████████████████████████▍| 221/223 [00:41<00:00,  5.72url/s]Processing URL: http://mvnrepository.com/artifact/version/$version-$commit/
+  Trying updated URL: https://mvnrepository.com/artifact/version/$version-$commit/
+  Updated URL not valid: https://mvnrepository.com/artifact/version/$version-$commit/
+Searching Maven Repository for: version $version-$commit
+  Could not find a valid URL.
+Processing URLs: 100%|█████████████████████████████████████████████████████████████▋| 222/223 [00:41<00:00,  5.84url/s]Processing URL: http://mvnrepository.com/artifact/org.javassist/javassist/3.21.0-ga
+  Trying updated URL: https://mvnrepository.com/artifact/org.javassist/javassist/3.21.0-ga
+  Updated URL not valid: https://mvnrepository.com/artifact/org.javassist/javassist/3.21.0-ga
+Searching Maven Repository for: org.javassist javassist 3.21.0-ga
+  Could not find a valid URL.
+Processing URLs: 100%|██████████████████████████████████████████████████████████████| 223/223 [00:42<00:00,  5.29url/s]
+Results saved to: output_urls.xlsx
